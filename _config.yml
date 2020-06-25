@@ -1,5 +1,5 @@
 # Site settings
-title: Thomas Zühlke
+title: Rodrigo Santucci
 description: 'Business Card Page'
 url: 'http://thomas.zuehlke.family'
 baseurl: ''
@@ -9,7 +9,7 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
+  name: 'Rodrigo Santucci'
   email: info@thomas-zuehlke.de
   twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
