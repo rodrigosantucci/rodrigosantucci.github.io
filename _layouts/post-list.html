@@ -9,7 +9,7 @@ layout: compress
 <head>
     {% include head.html %}
 </head>
-<body>
+<body class="example">
     {% include nav.html %}
     <!-- Header -->
     <header class="header" role="banner">
@@ -25,10 +25,10 @@ layout: compress
                     {% for post in site.posts %} 
                         {% if post.project == null %}
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                        <li class="wow fadeInLeft" data-wow-duration="1.0s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Ler mais</a>
                         </li>
                     </ul>
                         {% endif %}
@@ -40,5 +40,23 @@ layout: compress
     {% include scripts.html %}
     <script src="{{ site.url }}/assets/js/wow.min.js"></script>
     <script type="text/javascript">(new WOW).init();</script>
+    <script>
+        $("#example, body").vegas({
+
+            delay: 7000,
+            timer: false,
+            shuffle: true,
+            firstTransition: 'fade',
+            firstTransitionDuration: 100,
+            transition: 'fade2',
+            transitionDuration: 20000,
+            slides: [
+                { src: "{{ site.url }}/assets/img/slide1.jpg" },
+                { src: "{{ site.url }}/assets/img/slide2.jpg" },
+                { src: "{{ site.url }}/assets/img/slide3.jpg" },
+                { src: "{{ site.url }}/assets/img/slide4.jpg" }
+            ]
+        });
+    </script>
 </body>
 </html>

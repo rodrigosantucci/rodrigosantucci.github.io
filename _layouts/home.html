@@ -9,7 +9,7 @@ layout: compress
 <head>
     {% include head.html %}
 </head>
-<body>
+<body class="example">
     {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
@@ -33,18 +33,36 @@ layout: compress
                   <hr class="hr-line">
                   <h3 class="title">
                          <a class="btn zoombtn" href="{{ site.url }}/about">
-                         About
+                         Sobre
                          </a>
                          <a class="btn zoombtn" href="{{ site.url }}/posts">
                          Posts
                          </a>
                          <a class="btn zoombtn" href="{{ site.url }}/projects">
-                         Projects
+                         Projetos
                          </a>
                  </h3>
             </div>
         </div>
     </header>
     {% include scripts.html %}
+    <script>
+        $("#example, body").vegas({
+
+            delay: 7000,
+            timer: false,
+            shuffle: true,
+            firstTransition: 'fade',
+            firstTransitionDuration: 100,
+            transition: 'fade2',
+            transitionDuration: 20000,
+            slides: [
+                { src: "{{ site.url }}/assets/img/slide1.jpg" },
+                { src: "{{ site.url }}/assets/img/slide2.jpg" },
+                { src: "{{ site.url }}/assets/img/slide3.jpg" },
+                { src: "{{ site.url }}/assets/img/slide4.jpg" }
+            ]
+        });
+    </script>
 </body>
 </html>
