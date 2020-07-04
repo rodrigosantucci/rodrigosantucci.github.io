@@ -3,7 +3,6 @@ layout: post
 title:  "Guia básico de comandos do git"
 date:   2020-07-04
 excerpt: "Serão listados e conceituados os principais comandos mais basicos do git."
-project: true
 tag:
 - git 
 - github
