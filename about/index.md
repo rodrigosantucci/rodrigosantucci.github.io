@@ -5,8 +5,6 @@ tags: [about, Sobre]
 date: 2020-04-07
 comments: false
 ---
-    
-<center><a href="http://rodrigosantucci.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
 * Minimal, you can focus on your content
@@ -34,4 +32,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
