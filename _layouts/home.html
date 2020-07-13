@@ -13,10 +13,10 @@ layout: compress
     {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
-        <div class="container animated fadeIn">
+        <div class="container animated fadeInUp">
             <div class="row">
                     <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                        <img src="{{ site.logo }}" class="img-circle zoombtn animated fadeInUp">
                     </a>
                     <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}">
@@ -26,7 +26,8 @@ layout: compress
                     <hr class="hr-line">
                     <h3 class="title">
                         <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
+                            <p style="font-size:1rem;font-weight:300">{{ site.bio1 }}</p>
+                            <p style="font-size:1rem;font-weight:300">{{ site.bio2 }}</p>
 			            </a>
                     </h3>
                     {% include social-links.html %}
