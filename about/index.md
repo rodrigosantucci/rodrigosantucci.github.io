@@ -3,11 +3,11 @@ layout: page
 title: Sobre
 tags: [about, Sobre]
 date: 2020-04-07
-comments: false
+comments: true
 ---
 
 ## Contéudo
-Serão compartilhadas semanalmente, postagens relacionadas às tecnologias em que venho aprendendo, dicas de desenvolvimento e tecnologia em geral, bem como alguns projetos em que venho trabalhando.
+Serão compartilhadas semanalmente, dicas de desenvolvimento e tecnologia em geral, postagens relacionadas às tecnologias que venho aprendendo, bem como alguns projetos em que venho trabalhando.
 
 * Postagens
 
@@ -27,14 +27,8 @@ Serão compartilhadas semanalmente, postagens relacionadas às tecnologias em qu
 * Boas práticas
 * Trabalho em equipe
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=4 %}
-
+## Este site
+Este site foi construido utilizando o framework **Jekyll**, com o tema Moon e hospedado no **GitHub Pages**, em breve será feito um post explicando como hospedagem paginas **HTML** estáticas no github pages e posteriormente uma introdução ao **Jekyll**.
 
 ## Últimas postagens
 

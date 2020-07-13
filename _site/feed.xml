@@ -1,53 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-13T14:15:59-03:00</updated><id>http://localhost:4000/</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Guia básico de comandos do git</title><link href="http://localhost:4000/guia-basico-comandos-do-git/" rel="alternate" type="text/html" title="Guia básico de comandos do git" /><published>2020-07-04T00:00:00-03:00</published><updated>2020-07-04T00:00:00-03:00</updated><id>http://localhost:4000/guia-basico-comandos-do-git</id><content type="html" xml:base="http://localhost:4000/guia-basico-comandos-do-git/">&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-13T18:40:20-03:00</updated><id>http://localhost:4000/</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Guia básico de comandos do git</title><link href="http://localhost:4000/guia-basico-comandos-do-git/" rel="alternate" type="text/html" title="Guia básico de comandos do git" /><published>2020-07-04T00:00:00-03:00</published><updated>2020-07-04T00:00:00-03:00</updated><id>http://localhost:4000/guia-basico-comandos-do-git</id><content type="html" xml:base="http://localhost:4000/guia-basico-comandos-do-git/">&lt;p&gt;&lt;img src=&quot;/../assets/img/git-logo.png&quot; alt=&quot;Homepage&quot; /&gt;&lt;/p&gt;
 
-&lt;center&gt;&lt;b&gt;Moon&lt;/b&gt; is a minimal, one column jekyll theme.&lt;/center&gt;
+&lt;center&gt;O &lt;b&gt;Git&lt;/b&gt; é um sistema de versionamento distribuido, usado no desenvolvimento de quase todas as tecnologias ativas no mercado. &lt;/center&gt;
 
-&lt;p&gt;I’m not a developer or designer. And I don’t add footer to show who did this theme. If you like this theme or using it, please give a &lt;strong&gt;star&lt;/strong&gt; for motivation, It makes me happy.&lt;/p&gt;
+&lt;p&gt;Se esse conteúdo é valioso pra você, clique no botão abaixo para demonstrar sua satisfação, muito obrigado.&lt;/p&gt;
 
-&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=TaylanTatli&amp;amp;repo=Moon&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=rodrigosantucci/rodrigosantucci.github.io&amp;amp;repo=&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+&lt;h2 id=&quot;instalação&quot;&gt;Instalação&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/TaylanTatli/Moon/fork&quot;&gt;Moon repo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/li&gt;
-  &lt;li&gt;Remove sample posts from &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder and add yours.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;index.md&lt;/code&gt; file in &lt;code class=&quot;highlighter-rouge&quot;&gt;about&lt;/code&gt; folder.&lt;/li&gt;
-  &lt;li&gt;Change repo name to &lt;code class=&quot;highlighter-rouge&quot;&gt;YourUserName.github.io&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Download para &lt;a href=&quot;https://git-scm.com/download/mac&quot;&gt;OSX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Download para &lt;a href=&quot;https://gitforwindows.org&quot;&gt;Windows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Download para &lt;a href=&quot;https://git-scm.com/download/linux&quot;&gt;Linux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;That’s all.&lt;/p&gt;
-
-&lt;h2 id=&quot;preview&quot;&gt;Preview&lt;/h2&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-    
-    &lt;a href=&quot;https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png&quot;&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png&quot;&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png&quot;&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Screenshots of Moon Theme&lt;/figcaption&gt;
-&lt;/figure&gt;
 
 &lt;hr /&gt;
 
-&lt;figure class=&quot;half&quot;&gt;
-    
-    &lt;a href=&quot;https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png&quot;&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;a href=&quot;https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png&quot;&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-    
-    &lt;figcaption&gt;Moon Theme on Small Screen Size&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;h2 id=&quot;criando-repositório&quot;&gt;Criando repositório&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;crie uma pasta, a pasta criada, será a pasta raiz do seu projeto, onde você criará seu repositório com o comando:&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;See a &lt;a href=&quot;http://taylantatli.github.io/Moon&quot;&gt;live version of Moon&lt;/a&gt; hosted on GitHub.&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt; &lt;span class=&quot;s&quot;&gt;git init&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h2 id=&quot;site-setup&quot;&gt;Site Setup&lt;/h2&gt;
-&lt;p&gt;A quick checklist of the files you’ll want to edit to get up and running.&lt;/p&gt;
+&lt;p&gt;Pronto, repositório criado.&lt;/p&gt;
 
-&lt;h3 id=&quot;site-wide-configuration&quot;&gt;Site Wide Configuration&lt;/h3&gt;
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; is your friend. Open it up and personalize it. Most variables are self explanatory but here’s an explanation of each if needed:&lt;/p&gt;
+&lt;h3 id=&quot;baixando-um-repositório&quot;&gt;Baixando um repositório&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Baixando de servidor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;    &lt;span class=&quot;s&quot;&gt;git clone usuario@servidor:/caminho-do-repositorio/&lt;/span&gt;
+  &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Baixando do GitHub&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;    &lt;span class=&quot;s&quot;&gt;git clone https://url-no-github/ /caminho/que/deseja/baixar&lt;/span&gt;
+  &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;title&quot;&gt;title&lt;/h4&gt;
 
@@ -146,4 +136,4 @@ feaure: http://example.com/some-image.png
 
 &lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
 
-&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="git" /><category term="github" /><category term="cli" /><category term="versionamento" /><category term="basico" /><category term="iniciante" /><summary type="html">Serão listados e conceituados os principais comandos mais basicos do git.</summary></entry></feed>
+&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="git" /><category term="guia" /><category term="cli" /><category term="versionamento" /><category term="basico" /><category term="iniciante" /><summary type="html">Serão listados e conceituados os principais comandos mais basicos do git.</summary></entry></feed>

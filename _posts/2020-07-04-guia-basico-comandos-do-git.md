@@ -5,7 +5,7 @@ date:   2020-07-04
 excerpt: "Serão listados e conceituados os principais comandos mais basicos do git."
 tag:
 - git 
-- github
+- guia
 - cli
 - versionamento
 - basico
@@ -13,47 +13,43 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![Homepage](/../assets/img/git-logo.png)    
     
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+<center>O <b>Git</b> é um sistema de versionamento distribuido, usado no desenvolvimento de quase todas as tecnologias ativas no mercado. </center>
      
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+ Se esse conteúdo é valioso pra você, clique no botão abaixo para demonstrar sua satisfação, muito obrigado.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+<iframe src="https://ghbtns.com/github-btn.html?user=rodrigosantucci/rodrigosantucci.github.io&repo=&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
-## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
-     
-That's all.
+## Instalação
+* Download para [OSX](https://git-scm.com/download/mac)
+* Download para [Windows](https://gitforwindows.org)
+* Download para [Linux](https://git-scm.com/download/linux)
 
-## Preview
-
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+  
 
 ---
-
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png
-	https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png
-{% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
+  
       
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
 
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
 
-### Site Wide Configuration
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
+## Criando repositório
+* crie uma pasta, a pasta criada, será a pasta raiz do seu projeto, onde você criará seu repositório com o comando: 
+{% highlight yaml %}
+ git init
+{% endhighlight %}
+
+Pronto, repositório criado.
+
+### Baixando um repositório
+* Baixando de servidor
+  {% highlight yaml %}
+    git clone usuario@servidor:/caminho-do-repositorio/
+  {% endhighlight %}
+* Baixando do GitHub
+  {% highlight yaml %}
+    git clone https://url-no-github/ /caminho/que/deseja/baixar
+  {% endhighlight %} 
 
 #### title
 
