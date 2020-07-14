@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-14T17:01:27-03:00</updated><id>http://localhost:4000/</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Guia básico de comandos do git</title><link href="http://localhost:4000/guia-basico-comandos-do-git/" rel="alternate" type="text/html" title="Guia básico de comandos do git" /><published>2020-07-04T00:00:00-03:00</published><updated>2020-07-04T00:00:00-03:00</updated><id>http://localhost:4000/guia-basico-comandos-do-git</id><content type="html" xml:base="http://localhost:4000/guia-basico-comandos-do-git/">&lt;p&gt;&lt;img src=&quot;/../assets/img/git-logo.png&quot; alt=&quot;Homepage&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-14T17:08:30-03:00</updated><id>http://localhost:4000/</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Guia básico de comandos do git</title><link href="http://localhost:4000/guia-basico-comandos-do-git/" rel="alternate" type="text/html" title="Guia básico de comandos do git" /><published>2020-07-04T00:00:00-03:00</published><updated>2020-07-04T00:00:00-03:00</updated><id>http://localhost:4000/guia-basico-comandos-do-git</id><content type="html" xml:base="http://localhost:4000/guia-basico-comandos-do-git/">&lt;p&gt;&lt;img src=&quot;/../assets/img/git-logo.png&quot; alt=&quot;Homepage&quot; /&gt;&lt;/p&gt;
 
 &lt;center&gt;O &lt;b&gt;Git&lt;/b&gt; é um sistema de versionamento distribuido, usado no desenvolvimento de quase todas as tecnologias ativas no mercado. Nesse guia, não será abordada a parte conceitual do Git, somente serão apresentados os comandos basicos e suas utilidades.&lt;/center&gt;
 
@@ -15,7 +15,7 @@
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;definindo-seu-nome&quot;&gt;Definindo seu nome&lt;/h2&gt;
-&lt;p&gt;Uma das primeiras coisas a serem feitas quando se inicia a utilização do GIT, é a definição de sua identidade, no git quando é feito o commit, é mostrado o autor, que sera definido a partir do seguinte comando:&lt;/p&gt;
+&lt;p&gt;Uma das primeiras coisas a serem feitas quando se inicia a utilização do GIT, é a definição de sua identidade, no git quando é feito o commit, é mostrado o autor da alteração, que será definido a partir do seguinte comando:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt; git config --global user.name &quot;Seu Nome&quot;
  git config --global user.email seu@email.com
@@ -115,7 +115,7 @@
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;restaurando-repositório&quot;&gt;Restaurando repositório&lt;/h2&gt;
-&lt;p&gt;Se tudo estiver errado no repositório local, e voce deseja remover todos os commits locais, você pode recuperar o histórico do servidor e restaurar o código mais recente, apontando para a branch master local com os comandos:&lt;/p&gt;
+&lt;p&gt;Se tudo estiver errado no repositório local e voce deseja remover todos os commits locais, você pode recuperar o histórico do servidor e restaurar o código mais recente, apontando para a branch master local com os comandos:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git fetch origin
 git reset --hard origin/master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;

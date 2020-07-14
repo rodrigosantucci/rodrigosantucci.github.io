@@ -30,7 +30,7 @@ comments: true
 
 ---
 ## Definindo seu nome
-Uma das primeiras coisas a serem feitas quando se inicia a utilização do GIT, é a definição de sua identidade, no git quando é feito o commit, é mostrado o autor, que sera definido a partir do seguinte comando:
+Uma das primeiras coisas a serem feitas quando se inicia a utilização do GIT, é a definição de sua identidade, no git quando é feito o commit, é mostrado o autor da alteração, que será definido a partir do seguinte comando:
  {% highlight cli %}
  git config --global user.name "Seu Nome"
  git config --global user.email seu@email.com
@@ -130,7 +130,7 @@ git remote add origin [url/ip do servidor remoto]
 
 ---
 ## Restaurando repositório
-Se tudo estiver errado no repositório local, e voce deseja remover todos os commits locais, você pode recuperar o histórico do servidor e restaurar o código mais recente, apontando para a branch master local com os comandos:
+Se tudo estiver errado no repositório local e voce deseja remover todos os commits locais, você pode recuperar o histórico do servidor e restaurar o código mais recente, apontando para a branch master local com os comandos:
 {% highlight cli %}
 git fetch origin
 git reset --hard origin/master
