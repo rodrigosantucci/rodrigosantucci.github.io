@@ -37,6 +37,13 @@ Verifique às [ultimas postagens](http://rodrigosantucci.github.io/posts/) para 
 
 ## Gostou do conteúdo?
 
+<<<<<<< HEAD
 Faça uma doação. 
 [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2X9NF2H8CTTU4&source=url)  
     
+=======
+Faça uma doação. [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2X9NF2H8CTTU4&source=url)  
+  
+
+    
+>>>>>>> e702d413eddfb672c9968ee04ae67b426a4df5bb
