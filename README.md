@@ -4,9 +4,9 @@
     
    
     
-######(Se voce gostou desse site, clique em :star: para colaborar.)
+### Se voce gostou desse site, clique em :star: para colaborar.
 
-**[Esse site]**  **(https://rodrigosantucci.github.io/)** foi desenvolvido a partir do tema Moon utilizando o framework Jekyll.
+[Esse site](https://rodrigosantucci.github.io/) foi desenvolvido a partir do tema Moon utilizando o framework Jekyll.
 
 ## Conteúdo
 * Business Intelligence
