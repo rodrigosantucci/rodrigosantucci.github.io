@@ -1,30 +1,20 @@
 [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
-## `Sorry guys but there will be no update until I buy a new laptop.`
     
-######(If you like this theme or using it, please give a :star: for motivation.)
+######(Se voce gostou desse site, clique em :star: para colaborar.)
 
-**[This blog](https://rodrigosantucci.github.io/) ** is a minimal, one column jekyll theme.
+**[Esse site](https://rodrigosantucci.github.io/) ** foi desenvolvido a partir do tema Moon utilizando o framework Jekyll.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Conteúdo
+* Business Intelligence
+* Inteligencia Artificial
+* Desenvolvimento Web
+* Desenvolvimento Mobile
+* Git
+* Segurança
+* Boas práticas
 
-## Preview
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+## As últimas postagens
 
-See a [live](https://rodrigosantucci.github.io/) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](https://rodrigosantucci.github.io/)  for more information.
+Para aprender todas as tecnologias que estudo, [clique ai](https://rodrigosantucci.github.io/) e acompanhe meu trabalho.
