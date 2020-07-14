@@ -1,5 +1,8 @@
-[![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+[![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/rodrigosantucci/0brl)  
   
+    
+    
+   
     
 ######(Se voce gostou desse site, clique em :star: para colaborar.)
 
@@ -17,4 +20,4 @@
 
 ## As últimas postagens
 
-Para aprender todas as tecnologias que estudo, [clique ai](https://rodrigosantucci.github.io/) e acompanhe meu trabalho.
+Para aprender todas as tecnologias que estudo, [clique aqui](https://rodrigosantucci.github.io/) e acompanhe meu trabalho.
