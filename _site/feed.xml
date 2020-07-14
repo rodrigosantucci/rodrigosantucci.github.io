@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-13T18:40:20-03:00</updated><id>http://localhost:4000/</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Guia básico de comandos do git</title><link href="http://localhost:4000/guia-basico-comandos-do-git/" rel="alternate" type="text/html" title="Guia básico de comandos do git" /><published>2020-07-04T00:00:00-03:00</published><updated>2020-07-04T00:00:00-03:00</updated><id>http://localhost:4000/guia-basico-comandos-do-git</id><content type="html" xml:base="http://localhost:4000/guia-basico-comandos-do-git/">&lt;p&gt;&lt;img src=&quot;/../assets/img/git-logo.png&quot; alt=&quot;Homepage&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-14T16:58:33-03:00</updated><id>http://localhost:4000/</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Guia básico de comandos do git</title><link href="http://localhost:4000/guia-basico-comandos-do-git/" rel="alternate" type="text/html" title="Guia básico de comandos do git" /><published>2020-07-04T00:00:00-03:00</published><updated>2020-07-04T00:00:00-03:00</updated><id>http://localhost:4000/guia-basico-comandos-do-git</id><content type="html" xml:base="http://localhost:4000/guia-basico-comandos-do-git/">&lt;p&gt;&lt;img src=&quot;/../assets/img/git-logo.png&quot; alt=&quot;Homepage&quot; /&gt;&lt;/p&gt;
 
-&lt;center&gt;O &lt;b&gt;Git&lt;/b&gt; é um sistema de versionamento distribuido, usado no desenvolvimento de quase todas as tecnologias ativas no mercado. &lt;/center&gt;
+&lt;center&gt;O &lt;b&gt;Git&lt;/b&gt; é um sistema de versionamento distribuido, usado no desenvolvimento de quase todas as tecnologias ativas no mercado. Nesse guia, não será abordada a parte conceitual do Git, somente serão apresentados os comandos basicos e suas utilidades.&lt;/center&gt;
 
 &lt;p&gt;Se esse conteúdo é valioso pra você, clique no botão abaixo para demonstrar sua satisfação, muito obrigado.&lt;/p&gt;
 
@@ -14,126 +14,126 @@
 &lt;/ul&gt;
 
 &lt;hr /&gt;
+&lt;h2 id=&quot;definindo-seu-nome&quot;&gt;Definindo seu nome&lt;/h2&gt;
+&lt;p&gt;Uma das primeiras coisas a serem feitas quando se inicia a utilização do GIT, é a definição de sua identidade, no git quando é feito o commit, é mostrado o autor, que sera definido a partir do seguinte comando:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt; git config --global user.name &quot;Seu Nome&quot;
+ git config --global user.email seu@email.com
+ &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;O git tambem permite que seja alterado a cor do seu nome, com o comando:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt; git config --global color.ui true
+ &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;criando-repositório&quot;&gt;Criando repositório&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;crie uma pasta, a pasta criada, será a pasta raiz do seu projeto, onde você criará seu repositório com o comando:&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Crie uma pasta, a pasta criada, será a pasta raiz do seu projeto, onde você criará seu repositório com o comando:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt; &lt;span class=&quot;s&quot;&gt;git init&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;  git init
+  &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Pronto, repositório criado.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;atualizando-repositório-local&quot;&gt;Atualizando repositório local&lt;/h2&gt;
+&lt;p&gt;Após criado o repositório local, é importante que ele esteja em conformidade com o repositório remoto, para isso utilize o comando:&lt;/p&gt;
 
-&lt;h3 id=&quot;baixando-um-repositório&quot;&gt;Baixando um repositório&lt;/h3&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;  git pull
+  &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;baixando-um-repositório&quot;&gt;Baixando um repositório&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Baixando de servidor&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;    &lt;span class=&quot;s&quot;&gt;git clone usuario@servidor:/caminho-do-repositorio/&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;  git clone usuario@servidor:/caminho-do-repositorio/
   &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Baixando do GitHub&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;    &lt;span class=&quot;s&quot;&gt;git clone https://url-no-github/ /caminho/que/deseja/baixar&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;  git clone https://url-no-github/ /caminho/que/deseja/baixar
   &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h4 id=&quot;title&quot;&gt;title&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;gravando-alterações&quot;&gt;Gravando alterações&lt;/h2&gt;
+&lt;p&gt;Dentro do seu repositório, após feitas as alterações desejadas, você deve grava-las, para então posteriormente “commita-las”. O comando para gravar as alterações feitas no codigo do seu projeto é o:&lt;/p&gt;
 
-&lt;p&gt;The title of your site… shocker!&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;  git add [nome do arquivo]
+  &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Example &lt;code class=&quot;highlighter-rouge&quot;&gt;title: My Awesome Site&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Caso queira gravar todas as alterações, utilize &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt; no lugar do nome do arquivo do exemplo acima.&lt;/p&gt;
 
-&lt;h4 id=&quot;bio&quot;&gt;bio&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;verificando-status-dos-arquivos&quot;&gt;Verificando status dos arquivos&lt;/h2&gt;
+&lt;p&gt;Após gravadas as alterações, você pode verificar o status dos arquivos, em qual branch você se encontra e todos os arquivos que tiveram e não tiveram alterações com o comando:&lt;/p&gt;
 
-&lt;p&gt;The description to show on your homepage.&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git status&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h4 id=&quot;description&quot;&gt;description&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;commit&quot;&gt;Commit&lt;/h2&gt;
+&lt;p&gt;Para que sejam confirmadas as mudanças feitas em seu código será necessário “commitar” o código com o seguinte comando:&lt;/p&gt;
 
-&lt;p&gt;The description to use for meta tags and navigation menu.&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git commit -m &quot;comentário de alterações&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h4 id=&quot;url&quot;&gt;url&lt;/h4&gt;
+&lt;p&gt;Após a confirmação, as alterações feitas no códigos são enviadas para o HEAD, que é o ultimo estágio antes do envio para o servidor remoto.&lt;/p&gt;
 
-&lt;p&gt;Used to generate absolute urls in &lt;code class=&quot;highlighter-rouge&quot;&gt;sitemap.xml&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;feed.xml&lt;/code&gt;, and for generating canonical URLs in &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt;. When developing locally either comment this out or use something like &lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000&lt;/code&gt; so all assets load properly. &lt;em&gt;Don’t include a trailing &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;É possivel também verificar todos os commits, com o comando:&lt;/p&gt;
 
-&lt;p&gt;Examples:&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git log&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Moon&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://localhost:4000&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;//cooldude.github.io&lt;/span&gt;
-&lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;ramificando&quot;&gt;Ramificando&lt;/h2&gt;
+&lt;p&gt;O branches, são utilizadas para o desenvolvimento de funcionalidades isoladas dentro do mesmo sistema, de maneira simultanea. O branch master é o branch “padrão” do repositorio, para criar outra branch utilize o comando:&lt;/p&gt;
 
-&lt;h4 id=&quot;reading_time&quot;&gt;reading_time&lt;/h4&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git checkout -b nomedabranch&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Set true to show reading time for posts. And set &lt;code class=&quot;highlighter-rouge&quot;&gt;words_per_minute&lt;/code&gt;, default is 200.&lt;/p&gt;
+&lt;p&gt;para retornar para a branch master&lt;/p&gt;
 
-&lt;h4 id=&quot;logo&quot;&gt;logo&lt;/h4&gt;
-&lt;p&gt;Your site’s logo. It will show on homepage and navigation menu. Also used for twitter meta tags.&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git checkout master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h4 id=&quot;background&quot;&gt;background&lt;/h4&gt;
-&lt;p&gt;Image for background. If you don’t set it, color will be used as a background.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;mesclagem&quot;&gt;Mesclagem&lt;/h2&gt;
+&lt;p&gt;É importante lembrar de usar o &lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout&lt;/code&gt; para a branch em que deseja fazer a mesclagem, e assim, seguir com o comando:&lt;/p&gt;
 
-&lt;h4 id=&quot;google-analytics-and-webmaster-tools&quot;&gt;Google Analytics and Webmaster Tools&lt;/h4&gt;
-
-&lt;p&gt;Google Analytics UA and Webmaster Tool verification tags can be entered in &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;. For more information on obtaining these meta tags check &lt;a href=&quot;http://support.google.com/webmasters/bin/answer.py?hl=en&amp;amp;answer=35179&quot;&gt;Google Webmaster Tools&lt;/a&gt; and &lt;a href=&quot;https://ssl.bing.com/webmaster/configure/verify/ownership&quot;&gt;Bing Webmaster Tools&lt;/a&gt; support.&lt;/p&gt;
-
-&lt;h4 id=&quot;mathjax&quot;&gt;MathJax&lt;/h4&gt;
-&lt;p&gt;It’s enabled. But if you don’t want to use it. Set it false in  &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;disqus-comments&quot;&gt;Disqus Comments&lt;/h4&gt;
-&lt;p&gt;Set your disqus shortname in &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; to use comments.&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git merge [nome-da-branch-desejada]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;navigation-links&quot;&gt;Navigation Links&lt;/h3&gt;
+&lt;h2 id=&quot;enviando-alterações&quot;&gt;Enviando alterações&lt;/h2&gt;
+&lt;p&gt;As alterações que se encontram na HEAD, podem ser enviadas para o repositorio remoto com o comando:&lt;/p&gt;
 
-&lt;p&gt;To set what links appear in the top navigation edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/navigation.yml&lt;/code&gt;. Use the following format to set the URL and title for as many links as you’d like. &lt;em&gt;External links will open in a new window.&lt;/em&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git push origin master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Home&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/&lt;/span&gt;
+&lt;p&gt;para enviar para outra branch alem da master, basta somente alterar o corpo do comando com o nome da branch desejada.&lt;/p&gt;
 
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Blog&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/blog/&lt;/span&gt;
+&lt;p&gt;Se você ainda não conectou seu repositório local ao repositório remoto, você pode adiciona-lo com o comando:&lt;/p&gt;
 
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Projects&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/projects/&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git remote add origin [url/ip do servidor remoto]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;About&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/about/&lt;/span&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;restaurando-repositório&quot;&gt;Restaurando repositório&lt;/h2&gt;
+&lt;p&gt;Se tudo estiver errado no repositório local, e voce deseja remover todos os commits locais, você pode recuperar o histórico do servidor e restaurar o código mais recente, apontando para a branch master local com os comandos:&lt;/p&gt;
 
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Moon&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Moon&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cli&quot; data-lang=&quot;cli&quot;&gt;git fetch origin
+git reset --hard origin/master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;layouts-and-content&quot;&gt;Layouts and Content&lt;/h2&gt;
+&lt;h3 id=&quot;links-úteis&quot;&gt;Links úteis&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marklodato.github.io/visual-git-guide/index-en.html&quot;&gt;Guia com imagens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/pt-br/v2&quot;&gt;Documentação do Git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.github.com/en&quot;&gt;GitHub Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Moon Theme use &lt;a href=&quot;https://github.com/penibelst/jekyll-compress-html&quot;&gt;Jekyll Compress&lt;/a&gt; to compress html output. But it can cause errors if you use “linenos” (line numbers). I suggest don’t use line numbers for codes, because it won’t look good with this theme, also i didn’t give a proper style for them. If you insist to use line numbers, just remove &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: compress&lt;/code&gt; string from layouts. It will disable compressing.&lt;/p&gt;
-
-&lt;h3 id=&quot;feature-image&quot;&gt;Feature Image&lt;/h3&gt;
-
-&lt;p&gt;You can set feature image per post. Just add &lt;code class=&quot;highlighter-rouge&quot;&gt;feature: some link&lt;/code&gt; to your post’s front matter.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;feature: /assets/img/some-image.png
-or
-feaure: http://example.com/some-image.png
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;This also will be used for twitter card:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png&quot; alt=&quot;Moon Twitter Card&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
-&lt;p&gt;To show disqus comments for your post add &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to your post’s front matter.&lt;/p&gt;
+&lt;h3 id=&quot;dúvidas&quot;&gt;Dúvidas?&lt;/h3&gt;
+&lt;p&gt;Ficou com dúvida? me chama lá no &lt;a href=&quot;https://github.com/rodrigosantucci/&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
+&lt;center&gt;Esse conteúdo foi útil?&lt;/center&gt;
 
-&lt;p&gt;Found a bug or aren’t quite sure how something works? By all means &lt;a href=&quot;https://github.com/TaylanTatli/Moon/issues/new&quot;&gt;file a GitHub Issue&lt;/a&gt;. And if you make something cool with this theme feel free to let me know.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;</content><category term="git" /><category term="guia" /><category term="cli" /><category term="versionamento" /><category term="basico" /><category term="iniciante" /><summary type="html">Serão listados e conceituados os principais comandos mais basicos do git.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=2X9NF2H8CTTU4&amp;amp;source=url&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/paypal-donate-blue.svg&quot; alt=&quot;Donate&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="git" /><category term="guia" /><category term="cli" /><category term="versionamento" /><category term="basico" /><category term="iniciante" /><summary type="html">Guia prático com os comandos mais utilizados do git e suas funcionalidades.</summary></entry></feed>

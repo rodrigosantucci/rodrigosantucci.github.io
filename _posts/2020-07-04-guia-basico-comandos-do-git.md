@@ -2,7 +2,7 @@
 layout: post
 title:  "Guia básico de comandos do git"
 date:   2020-07-04
-excerpt: "Serão listados e conceituados os principais comandos mais basicos do git."
+excerpt: "Guia prático com os comandos mais utilizados do git e suas funcionalidades."
 tag:
 - git 
 - guia
@@ -15,7 +15,7 @@ comments: true
 
 ![Homepage](/../assets/img/git-logo.png)    
     
-<center>O <b>Git</b> é um sistema de versionamento distribuido, usado no desenvolvimento de quase todas as tecnologias ativas no mercado. </center>
+<center>O <b>Git</b> é um sistema de versionamento distribuido, usado no desenvolvimento de quase todas as tecnologias ativas no mercado. Nesse guia, não será abordada a parte conceitual do Git, somente serão apresentados os comandos basicos e suas utilidades.</center>
      
  Se esse conteúdo é valioso pra você, clique no botão abaixo para demonstrar sua satisfação, muito obrigado.
 
@@ -29,128 +29,126 @@ comments: true
   
 
 ---
-  
-      
+## Definindo seu nome
+Uma das primeiras coisas a serem feitas quando se inicia a utilização do GIT, é a definição de sua identidade, no git quando é feito o commit, é mostrado o autor, que sera definido a partir do seguinte comando:
+ {% highlight cli %}
+ git config --global user.name "Seu Nome"
+ git config --global user.email seu@email.com
+ {% endhighlight cli %}
+ 
+O git tambem permite que seja alterado a cor do seu nome, com o comando:
+ {% highlight cli %}
+ git config --global color.ui true
+ {% endhighlight cli %}  
 
+---
 
 ## Criando repositório
-* crie uma pasta, a pasta criada, será a pasta raiz do seu projeto, onde você criará seu repositório com o comando: 
-{% highlight yaml %}
- git init
-{% endhighlight %}
+Crie uma pasta, a pasta criada, será a pasta raiz do seu projeto, onde você criará seu repositório com o comando: 
+  {% highlight cli %}
+  git init
+  {% endhighlight cli %}
 
-Pronto, repositório criado.
 
-### Baixando um repositório
+---
+## Atualizando repositório local
+Após criado o repositório local, é importante que ele esteja em conformidade com o repositório remoto, para isso utilize o comando:
+  {% highlight cli %}
+  git pull
+  {% endhighlight cli %}
+---
+## Baixando um repositório
 * Baixando de servidor
-  {% highlight yaml %}
-    git clone usuario@servidor:/caminho-do-repositorio/
-  {% endhighlight %}
+  {% highlight cli %}
+  git clone usuario@servidor:/caminho-do-repositorio/
+  {% endhighlight cli %}
 * Baixando do GitHub
-  {% highlight yaml %}
-    git clone https://url-no-github/ /caminho/que/deseja/baixar
-  {% endhighlight %} 
+  {% highlight cli %}
+  git clone https://url-no-github/ /caminho/que/deseja/baixar
+  {% endhighlight cli %} 
 
-#### title
+---
+## Gravando alterações
+Dentro do seu repositório, após feitas as alterações desejadas, você deve grava-las, para então posteriormente "commita-las". O comando para gravar as alterações feitas no codigo do seu projeto é o:
+  {% highlight cli %}
+  git add [nome do arquivo]
+  {% endhighlight cli %} 
+Caso queira gravar todas as alterações, utilize `*` no lugar do nome do arquivo do exemplo acima.
 
-The title of your site... shocker!
+---
+## Verificando status dos arquivos
+Após gravadas as alterações, você pode verificar o status dos arquivos, em qual branch você se encontra e todos os arquivos que tiveram e não tiveram alterações com o comando:
+{% highlight cli %}
+git status
+{% endhighlight cli %} 
 
-Example `title: My Awesome Site`
+---
+## Commit
+Para que sejam confirmadas as mudanças feitas em seu código será necessário "commitar" o código com o seguinte comando:
+{% highlight cli %}
+git commit -m "comentário de alterações"
+{% endhighlight cli %}
+Após a confirmação, as alterações feitas no códigos são enviadas para o HEAD, que é o ultimo estágio antes do envio para o servidor remoto.
 
-#### bio
+É possivel também verificar todos os commits, com o comando:
+{% highlight cli %}
+git log
+{% endhighlight cli %}
 
-The description to show on your homepage.
+---
+## Ramificando 
+O branches, são utilizadas para o desenvolvimento de funcionalidades isoladas dentro do mesmo sistema, de maneira simultanea. O branch master é o branch "padrão" do repositorio, para criar outra branch utilize o comando:
+{% highlight cli %}
+git checkout -b nomedabranch
+{% endhighlight cli %}
+para retornar para a branch master
+{% highlight cli %}
+git checkout master
+{% endhighlight cli %}
 
-#### description
+---
+## Mesclagem
+É importante lembrar de usar o `git checkout` para a branch em que deseja fazer a mesclagem, e assim, seguir com o comando: 
+{% highlight cli %}
+git merge [nome-da-branch-desejada]
+{% endhighlight cli %}
 
-The description to use for meta tags and navigation menu.
-
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
-
-Examples:
-
-{% highlight yaml %}
-url: http://taylantatli.me/Moon
-url: http://localhost:4000
-url: //cooldude.github.io
-url:
-{% endhighlight %}
-
-#### reading_time
-
-Set true to show reading time for posts. And set `words_per_minute`, default is 200.
-
-#### logo
-Your site's logo. It will show on homepage and navigation menu. Also used for twitter meta tags.
-
-#### background
-Image for background. If you don't set it, color will be used as a background.
-
-#### Google Analytics and Webmaster Tools
-
-Google Analytics UA and Webmaster Tool verification tags can be entered in `_config.yml`. For more information on obtaining these meta tags check [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownership) support.
-
-#### MathJax
-It's enabled. But if you don't want to use it. Set it false in  `_config.yml`.
-
-#### Disqus Comments
-Set your disqus shortname in `_config.yml` to use comments.
 
 ---
 
-### Navigation Links
+## Enviando alterações 
+As alterações que se encontram na HEAD, podem ser enviadas para o repositorio remoto com o comando:
+{% highlight cli %}
+git push origin master
+{% endhighlight cli %}
+para enviar para outra branch alem da master, basta somente alterar o corpo do comando com o nome da branch desejada.
 
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
+Se você ainda não conectou seu repositório local ao repositório remoto, você pode adiciona-lo com o comando:
+{% highlight cli %}
+git remote add origin [url/ip do servidor remoto]
+{% endhighlight cli %}
 
-{% highlight yaml %}
-- title: Home
-  url: /
-
-- title: Blog
-  url: /blog/
-
-- title: Projects
-  url: /projects/
-
-- title: About
-  url: /about/
-
-- title: Moon
-  url: http://taylantatli.me/Moon
-{% endhighlight %}
+---
+## Restaurando repositório
+Se tudo estiver errado no repositório local, e voce deseja remover todos os commits locais, você pode recuperar o histórico do servidor e restaurar o código mais recente, apontando para a branch master local com os comandos:
+{% highlight cli %}
+git fetch origin
+git reset --hard origin/master
+{% endhighlight cli %}
 
 ---
 
-## Layouts and Content
+### Links úteis
+* [Guia com imagens](https://marklodato.github.io/visual-git-guide/index-en.html)
+* [Documentação do Git](https://git-scm.com/book/pt-br/v2)
+* [GitHub Docs](https://docs.github.com/en)
 
-Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
-
-### Feature Image
-
-You can set feature image per post. Just add `feature: some link` to your post's front matter.
-
-```
-feature: /assets/img/some-image.png
-or
-feaure: http://example.com/some-image.png
-```    
- This also will be used for twitter card:
-
-![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
-
-### Comments
-To show disqus comments for your post add `comments: true` to your post's front matter.
+### Dúvidas?
+Ficou com dúvida? me chama lá no [GitHub](https://github.com/rodrigosantucci/).
 
 ---
 
-## Questions?
+<center>Esse conteúdo foi útil?</center>
 
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
+[![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2X9NF2H8CTTU4&source=url)
 
----
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
