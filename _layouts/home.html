@@ -26,11 +26,14 @@ layout: compress
                     <hr class="hr-line">
                     <h3 class="title">
                         <a href="{{ site.url }}">
-                            <span class="typed" style="font-size:1rem;font-weight:300">{{ site.bio1 }}</span>
-                            <span class="typed-cursor">|</span>
-                            <p style="font-size:1rem;font-weight:300">{{ site.bio2 }}</p>
+                            <div id="typed-strings" >
+                                <p>{{ site.bio1 }}</p>
+                                <p>{{ site.bio2 }}</p>
+                              </div>
+                              <span style="font-size:1rem;font-weight:300" id="typed"></span>
 			            </a>
                     </h3>
+          
                     {% include social-links.html %}
                   <hr class="hr-line">
                   <h3 class="title">
@@ -38,11 +41,19 @@ layout: compress
                          Sobre
                          </a>
                          <a class="btn zoombtn" href="{{ site.url }}/posts">
-                         Posts
+                         Todas as postagens
                          </a>
+                        <!-- 
+
+                                Tirado de produção, será disponibilizado a partir das postagens futuramente.
+
+
                          <a class="btn zoombtn" href="{{ site.url }}/projects">
                          Projetos
                          </a>
+                        
+                        
+                        -->
                  </h3>
             </div>
         </div>
