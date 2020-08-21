@@ -30,7 +30,7 @@
                         <a href="http://www.xing.com/profile/{{ site.xing }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-xing-square"></i> Xing</a>
                     </li>{% endif %}
                     {% if site.instagram %}<li>
-                        <a href="http://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
+                     <!--   <a hrefhttp://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-instagram"></i> Instagram</a> -->
                     </li>{% endif %}
                     {% if site.tumblr %}<li>
                         <a href="http://{{ site.tumblr }}.tumblr.com" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-tumblr-square"></i> Tumblr</a>
@@ -98,7 +98,6 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
 		  {% endfor %}
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->
