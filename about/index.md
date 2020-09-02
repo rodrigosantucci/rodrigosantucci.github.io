@@ -6,6 +6,10 @@ date: 2020-04-07
 comments: true
 ---
 
+
+<div style="padding: 0 27%;" class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="rodrigosantucci96"><a class="LI-simple-link" href='https://br.linkedin.com/in/rodrigosantucci96?trk=profile-badge'>Rodrigo Santucci</a></div>  
+
+
 ## Contéudo
 Serão compartilhadas semanalmente, dicas de desenvolvimento e tecnologia em geral, postagens relacionadas às tecnologias que venho aprendendo, bem como alguns projetos em que venho trabalhando.
 
@@ -35,6 +39,7 @@ Este site foi construido utilizando o framework **Jekyll**, com o tema Moon e ho
 Verifique às [ultimas postagens](http://rodrigosantucci.github.io/posts/) para saber quais tecnologias venho desenvolvendo.
       
 ---
+
 
 <center><b>Esse conteúdo foi útil?</b></center>
  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2X9NF2H8CTTU4&source=url)  
