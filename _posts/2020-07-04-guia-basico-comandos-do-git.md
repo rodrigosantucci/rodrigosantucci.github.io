@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guia básico de comandos do git"
+title:  "Guia de comandos básicos do Git para iniciantes"
 date:   2020-07-04
 excerpt: "Guia prático com os comandos mais utilizados do git e suas funcionalidades."
 tag:
@@ -8,14 +8,16 @@ tag:
 - guia
 - cli
 - versionamento
-- basico
+- básico
 - iniciante
 comments: true
+feature: "/../assets/img/featuregitbasico.png"  
+
 ---
 
 ![Homepage](/../assets/img/git-logo.png)    
     
-<center>O <b>Git</b> é um sistema de versionamento distribuido, usado no desenvolvimento de quase todas as tecnologias ativas no mercado. Nesse guia, não será abordada a parte conceitual do Git, somente serão apresentados os comandos basicos e suas utilidades.</center>
+<center>O <b>Git</b> é um sistema de versionamento distribuído, usado no desenvolvimento de quase todas as tecnologias ativas no mercado. Nesse guia, não será abordada a parte conceitual do Git, somente serão apresentados os comandos básicos e suas utilidades.</center>
      
  Se esse conteúdo é valioso pra você, clique no botão abaixo para demonstrar sua satisfação, muito obrigado.
 

@@ -15,7 +15,6 @@ Serão compartilhadas semanalmente, dicas de desenvolvimento e tecnologia em ger
 
 * Postagens
 
-    * Os conteúdos serão postados uma vez por semana, todo domingo.
     * Os temas serão aleatórios, de acordo com a tecnologia em que eu estiver aprendendo e praticando.
     * Em caso de alguma sugestão de tema, basta comentar ou me enviar uma mensagem via github.
 
