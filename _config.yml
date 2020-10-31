@@ -9,6 +9,7 @@ logo:               'assets/img/logo.png'
 tiled_bg:           true  
 locale:             pt_BR
 url:                https://rodrigosantucci.github.io
+gem: [jekyll-admin]
 
 # Jekyll
 permalink:          /:title/
@@ -63,11 +64,12 @@ linkedin:           rodrigosantucci96
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com/rodrigosantucci

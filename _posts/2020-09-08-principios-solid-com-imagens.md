@@ -29,7 +29,25 @@ Os exemplos serão voltados a Classes para um melhor entendimento, porém podem 
 
 
 
+# Os princípios SOLID
 
+## S - Single Responsibility
+Uma classe deve ter somente uma responsabilidade. Se uma classe possui muitas responsabilidades, a chance de ocorrerem bugs ao serem feitas alterações em uma dessas responsabilidades aumenta, bem como esses bugs afetaram outras responsabilidades sem que o desenvolvedor saiba.
+
+### Objetivo:
+ O princípio Single Responsibility visa separar o comportamento das classes, para que ao se deparar com bugs resultantes de alguma mudança, um comportamento não relacionado com a classe alterada não será afetado.
+
+
+
+### O - Open-Closed
+Classes devem ser abertas para extensões, porém fechadas para modificações. Mudar o comportamento corrente da classe, afetará todos os sistemas utilizando a classe. Se a intenção for adicionar mais funções a classe, a abordagem ideal é adicionar a nova funcionalidade a classe sem que seja modificada a função que ja existe.
+
+
+### L - Liskov Substitution
+
+### I - Interface Segregation
+
+### D - Dependency Inversion
 
 
 

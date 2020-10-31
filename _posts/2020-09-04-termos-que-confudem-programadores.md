@@ -11,12 +11,10 @@ tag:
 - desenvolvimento
 - iniciante
 comments: true
-
+feature: "/../assets/img/logo3.jpg"  
 
 ---
 
-![Homepage](/../assets/img/logo3.jpg)    
-    
 Programadores ao iniciarem suas carreiras, comumente se deparam com algumas dúvidas bem especificas no meio do desenvolvimento, talvez pela semelhança no código ou nomes não tão descritivos e objetivos, o que é bem comum no ramo. Algumas dessas dúvidas serão abordadas e exemplificadas, são elas:
 
 # Argumento ou Parâmetro?
