@@ -12,10 +12,7 @@ url:                https://rodrigosantucci.github.io
 gem: [jekyll-admin]
 
 
-# Paginacao
-gem: [jekyll-paginate]
-paginate: 2
-paginate_path: /page:num/
+
 
 # Jekyll
 permalink:          /:title/
@@ -76,7 +73,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-admin
-  - jekyll-paginate  
+  
 
 jekyll-mentions:
     base_url: https://github.com/rodrigosantucci
