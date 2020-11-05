@@ -42,14 +42,7 @@ Uma classe deve ter somente uma responsabilidade. Se uma classe possui muitas re
 ### O - Open-Closed
 Classes devem ser abertas para extensões, porém fechadas para modificações. Mudar o comportamento corrente da classe, afetará todos os sistemas utilizando a classe. Se a intenção for adicionar mais funções a classe, a abordagem ideal é adicionar a nova funcionalidade a classe sem que seja modificada a função que ja existe.
 
-
-### L - Liskov Substitution
-
-### I - Interface Segregation
-
-### D - Dependency Inversion
-
-
+# Continua...
 
 
 * Fonte: [Ugonna Thelma](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)

@@ -1,4 +1,449 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-04T22:37:53-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Princípios S.O.L.I.D em imagens</title><link href="http://localhost:4000/principios-solid-com-imagens/" rel="alternate" type="text/html" title="Princípios S.O.L.I.D em imagens" /><published>2020-09-08T00:00:00-03:00</published><updated>2020-09-08T00:00:00-03:00</updated><id>http://localhost:4000/principios-solid-com-imagens</id><content type="html" xml:base="http://localhost:4000/principios-solid-com-imagens/">&lt;center&gt;&lt;h1&gt;S.O.L.I.D&lt;/h1&gt; &lt;/center&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-05T00:43:54-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Lista de links úteis do Github</title><link href="http://localhost:4000/lista-de-links-uteis-do-github/" rel="alternate" type="text/html" title="Lista de links úteis do Github" /><published>2020-11-04T00:00:00-03:00</published><updated>2020-11-04T00:00:00-03:00</updated><id>http://localhost:4000/lista-de-links-uteis-do-github</id><content type="html" xml:base="http://localhost:4000/lista-de-links-uteis-do-github/">&lt;h2 id=&quot;-repositórios-úteis&quot;&gt;🗂 Repositórios úteis&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/public-apis/public-apis&quot;&gt;Public APIs&lt;/a&gt; - Listagem de APIs Públicas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/danistefanovic/build-your-own-x&quot;&gt;Make Your Own X&lt;/a&gt; - Faça seu próprio X&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/donnemartin/system-design-primer&quot;&gt;The System Design Primer&lt;/a&gt; - Cartilha completa para Engenharia de Software&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jlevy/the-art-of-command-line&quot;&gt;The Art of Command Line&lt;/a&gt; - A arte da linha de comando&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/trekhleb/javascript-algorithms&quot;&gt;JavaScript Algorithms and Data Structures&lt;/a&gt; - Exemplos de Algoritmos e Estrutura de dados em JavaScript&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/goldbergyoni/nodebestpractices&quot;&gt;Node.js Best Practices&lt;/a&gt; - Boas práticas com NodeJS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/florinpop17/app-ideas&quot;&gt;App Ideas Collection&lt;/a&gt; - Coleção de ideas de criação de app’s por nível&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kamranahmedse/developer-roadmap&quot;&gt;Developer-Roadmap&lt;/a&gt; - Roadmap para o Desenvolvedor Web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/iuricode/recursos-gratuitos&quot;&gt;Recursos Gratuitos&lt;/a&gt; - Lista de recursos Front-end gratuitos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/iuricode/clones-interfaces&quot;&gt;Clones de interfaces&lt;/a&gt; - Clones de interfaces conhecidas como, Netflix, Instagram etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-banco-de-imagens-gratuitas&quot;&gt;🖼 Banco de imagens gratuitas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://500px.com/creativecommons&quot;&gt;500px&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.shopify.com/burst&quot;&gt;Burst&lt;/a&gt; - Plataforma de imagens do serviço de ecommerce Shopify&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cupcake.nilssonlee.se/&quot;&gt;Cupcake&lt;/a&gt; - Imagens gratuitas para uso comercial&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.drawkit.io/&quot;&gt;DrawKIT&lt;/a&gt; - Ilustrações para qualquer um usar&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.flaticon.com&quot;&gt;FlatIcon&lt;/a&gt; - Banco de ícones vetoriais&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flickr.com/&quot;&gt;Flickr&lt;/a&gt; - Rede social de fotógrafos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.freeimages.com/&quot;&gt;FreeImages&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stories.freepik.com/&quot;&gt;FreePik Stories&lt;/a&gt; - Banco de ilustrações gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://freerangestock.com/index.php&quot;&gt;Freerange&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gratisography.com/&quot;&gt;Gratisography&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.humaaans.com/&quot;&gt;Humaaans&lt;/a&gt; - Ilustrações de humanóides&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://icons8.com.br/&quot;&gt;Icons8&lt;/a&gt; - Ícones em diversos estilos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://imgur.com/&quot;&gt;Imgur&lt;/a&gt; - Plataforma com milhões de imagens&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iradesign.io/illustrations&quot;&gt;IraDesign&lt;/a&gt; - Ilustrações editáveis de cores e objetos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lifeofpix.com/&quot;&gt;Life of Pix&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://littlevisuals.co/&quot;&gt;Little Visuals&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lorempixel.com/&quot;&gt;lorempixel&lt;/a&gt; - Banco de imagens para uso como template&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.manypixels.co/gallery/&quot;&gt;ManyPixels&lt;/a&gt; - Galeria de ilustrações com direito a edição de cores&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://morguefile.com/&quot;&gt;Morguefile&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nappy.co&quot;&gt;Nappy&lt;/a&gt; - Banco de imagens gratuitas (atribuição recomendada)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nos.twnsnd.co/&quot;&gt;Nos.twnsnd&lt;/a&gt; - Arquivo público de fotos antigas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openmoji.org/&quot;&gt;OpenMoji&lt;/a&gt; - Banco de emojis para uso&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pexels.com/&quot;&gt;Pexels&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://photopin.com/&quot;&gt;PhotoPin&lt;/a&gt; - Banco de imagens gratuitas no estilo criativo&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://picjumbo.com/&quot;&gt;Picjumbo&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://picsum.photos/&quot;&gt;Picsum&lt;/a&gt; - Banco de imagens para uso como template&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pixabay.com&quot;&gt;Pixabay&lt;/a&gt; - Banco de imagens gratuitas (não requer atribuição)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.publicdomainarchive.com/&quot;&gt;Public domain archive&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://remixicon.com/&quot;&gt;RemixIcon&lt;/a&gt; - Banco de Ícones para uso gratuito&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stocksnap.io/&quot;&gt;StockSnap&lt;/a&gt; - Banco de imagens gratuitas (não requer atribuição)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://undraw.co/&quot;&gt;unDraw&lt;/a&gt; - Ilustrações livres para usar&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://visualhunt.com/&quot;&gt;Visual Hunt&lt;/a&gt; - Banco de imagens gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/Main_Page&quot;&gt;Wikimedia Commons&lt;/a&gt; - Banco de imagens mundial&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-ferramentas-de-desenvolvimento&quot;&gt;🔧 Ferramentas de desenvolvimento&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dotnetfiddle.net/&quot;&gt;.NET Fiddle&lt;/a&gt; - Codifique e compartilhe projetos C# online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.1pagerank.com/&quot;&gt;1PageRank&lt;/a&gt; - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://any-api.com/&quot;&gt;Any API&lt;/a&gt; - Diretório gratuito com APIs públicas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://autoprefixer.github.io/&quot;&gt;Autoprefixer CSS&lt;/a&gt; - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://browserdiet.com/pt/&quot;&gt;Browser diet&lt;/a&gt; - Guia de performance para desenvolvimento web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.caniemail.com/&quot;&gt;Can I email…&lt;/a&gt; - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://caniuse.com/&quot;&gt;Can I use…&lt;/a&gt; - Descubra se você pode usar determinadas tecnologias web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cloudflare.com/pt-br/&quot;&gt;CloudFlare&lt;/a&gt; - CDN grátis&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cmder.net/&quot;&gt;CMDER&lt;/a&gt; - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codepen.io/&quot;&gt;CodePen&lt;/a&gt; - Rede social de desenvolvedores front-end&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codesandbox.io/&quot;&gt;CodeSandbox&lt;/a&gt; - Caixa de área para desenvolvedores web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cleancss.com/css-beautify/&quot;&gt;CSS Formatter&lt;/a&gt; - Retire a minificação e formate o código CSS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cssminifier.com/&quot;&gt;CSS Minifier&lt;/a&gt; - Conversor de código CSS para CSS minificado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jigsaw.w3.org/css-validator/&quot;&gt;CSS W3.org&lt;/a&gt; - Validar CSS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.debuggex.com&quot;&gt;Debuggex: Online visual regex tester. JavaScript, Python, and PCRE&lt;/a&gt; - Construa e teste expressões regulares&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docsify.js.org/#/&quot;&gt;docsify&lt;/a&gt; - Crie docs incríveis de projetos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pandao.github.io/editor.md/en.html&quot;&gt;Editor.md&lt;/a&gt; - Editor Markdown online e open source&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es6console.com/&quot;&gt;ES6console&lt;/a&gt; - Compilador de JS para Ecmascript&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://firebase.google.com/?hl=pt-BR&quot;&gt;Firebase&lt;/a&gt; - Desenvolva aplicativos mobile e web incríveis este serviço da Google&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mozilla.org/pt-BR/firefox/developer/&quot;&gt;Firefox Developer Edition&lt;/a&gt; - Navegador web para desenvolvedores web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR&quot;&gt;Full Page Screen Capture&lt;/a&gt; - Capture páginas inteiras com uma extensão para Chrome&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.generatedata.com/&quot;&gt;generatedata&lt;/a&gt; - Gerador de dados para testes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/&quot;&gt;GitHub Gist&lt;/a&gt; - Faça pequenas anotações e pequenos códigos no GitHub Gist&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://transparencyreport.google.com/safe-browsing/search&quot;&gt;Google Transparency Report&lt;/a&gt; - Verificar segurança de um site&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://website.grader.com/&quot;&gt;Grader&lt;/a&gt; - Avaliação de site&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://howtocenterincss.com/&quot;&gt;How to Center in CSS&lt;/a&gt; - Gerador de código para divs ou textos que necessitam de centralização&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hyper.is/&quot;&gt;Hyper&lt;/a&gt; - Linha de comando simples, útil e gratuito&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.joomla.org/&quot;&gt;Joomla&lt;/a&gt; - CMS gratuita&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jsbin.com/&quot;&gt;JS Bin&lt;/a&gt; - Codifique e compartilhe projetos HTML, CSS e JS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jscompress.com/&quot;&gt;JSCompress&lt;/a&gt; - Conversor de código JS para JS minificado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jsfiddle.net/&quot;&gt;JSFiddle&lt;/a&gt; - Codifique projetos JS online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jsonlint.com/&quot;&gt;JSONLint&lt;/a&gt; - Ferramenta para validar seu JSON&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tools.keycdn.com/&quot;&gt;KeyCDN Tools&lt;/a&gt; - Faça uma análise das suas aplicações web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://liveweave.com/&quot;&gt;Liveweave&lt;/a&gt; - Codifique projetos HTML, CSS e JS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://br.lipsum.com/&quot;&gt;Lorem Ipsum&lt;/a&gt; - Gerador de texto fictício&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mapbox.com/&quot;&gt;Mapbox&lt;/a&gt; - Mapas e localização para desenvolvedores&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://memcached.org/&quot;&gt;Memcached&lt;/a&gt; - Melhore o desempenho de seu website com cache&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mockaroo.com/&quot;&gt;Mockaroo&lt;/a&gt; - Gerador de dados para testes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mussumipsum.com/&quot;&gt;Mussum Ipsum&lt;/a&gt; - Gerador de texto fictício&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/http-server&quot;&gt;NPM HTTP-Server&lt;/a&gt; - Rode um servidor local com um pacote npm&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.onlinegdb.com/online_c_compiler&quot;&gt;Online C Compiler&lt;/a&gt; - Ferramenta para compilar C online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi&quot;&gt;React Dev Tools&lt;/a&gt; - Ferramenta para debug do ReactJS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://react-hook-form.com/&quot;&gt;React Hook Form&lt;/a&gt; - Valide seus formulários de projetos que utilizam React ou React Native&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dbis-uibk.github.io/relax/index.htm&quot;&gt;RelaX&lt;/a&gt; - Crie expressões algébricas relacionais de consultas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codeorama.com/responsive/&quot;&gt;Responsive&lt;/a&gt; - Teste a responsividade do seu site&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ssllabs.com/ssltest/&quot;&gt;SSL Server Test&lt;/a&gt; - Testar SSL de sites&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm&quot;&gt;Tabela ASCII&lt;/a&gt; - Tabela completa com caracteres ASCII&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://telegram.org/&quot;&gt;Telegram&lt;/a&gt; - Mensageiro criptografado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tinyjpg.com/&quot;&gt;TinyJPG&lt;/a&gt; - Comprima imagem do formato JPG&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tinypng.com/&quot;&gt;TinyPNG&lt;/a&gt; - Comprima imagem do formato PNG&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://validator.w3.org/&quot;&gt;W3.org&lt;/a&gt; - Validar HTML&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wakatime.com/&quot;&gt;WakaTime&lt;/a&gt; - Gerencie seu tempo de desenvolvimento&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR&quot;&gt;Web Developer&lt;/a&gt; - Extensão para Chrome com multi-funções&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web.dev/&quot;&gt;Web.dev&lt;/a&gt; - Testar website (criado pela Google)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.webpagetest.org/&quot;&gt;WebPageTest&lt;/a&gt; - Testar perfomance de site&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wedsites.com/&quot;&gt;Wedsites&lt;/a&gt; - Liste suas atividades e acompanhe seu progresso&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wordpress.org/&quot;&gt;WordPress&lt;/a&gt; - Criação de blogs&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.xml-sitemaps.com/&quot;&gt;XML Sitemaps&lt;/a&gt; - Criador de sitemaps.xml&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-gerenciamento-de-projetos&quot;&gt;🗂 Gerenciamento de projetos&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://asana.com/pt&quot;&gt;Asana&lt;/a&gt; - Gerenciamento de trabalho&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dontpad.com/&quot;&gt;Dontpad&lt;/a&gt; - Abas de anotações sem necessidade de cadastro&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.draw.io/&quot;&gt;Draw.io&lt;/a&gt; - Desenvolva mapas mentais incríveis&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evernote.com/intl/pt-br&quot;&gt;Evernote&lt;/a&gt; - Notas autoadesivas na nuvem&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://keep.google.com/&quot;&gt;Google Keep&lt;/a&gt; - Notas autoadesivas na nuvem&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/software/jira&quot;&gt;Jira&lt;/a&gt; - Gerenciador de projetos e monitoramento de tarefas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lucidchart.com&quot;&gt;lucidchart&lt;/a&gt; - Documentação e gerenciamento de tarefas em equipe&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/&quot;&gt;Notion&lt;/a&gt; - Notas autoadesivas na nuvem e gerenciamento de projetos online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pipefy.com/&quot;&gt;Pipefy&lt;/a&gt; - Gerenciador de projetos (PMS)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.protectedtext.com/&quot;&gt;Protectedtext&lt;/a&gt; - Abas de anotações criptografadas sem necessidade de cadastro&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; - Gerenciamento de projetos com equipes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://taiga.io/&quot;&gt;Taiga&lt;/a&gt; - Controle de projetos com equipes através de quadros&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://culturedcode.com/things/&quot;&gt;Things&lt;/a&gt; - Gerenciador de tarefas pessoais&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://todoist.com/app?lang=pt_BR&quot;&gt;Todoist&lt;/a&gt; - Gerenciamento de projetos pessoais e em equipe&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.trello.com/&quot;&gt;Trello&lt;/a&gt; - Gerencie seus projetos com quadros&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/youtrack/&quot;&gt;YouTrack&lt;/a&gt; - Gerenciador de projetos online&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-freebies&quot;&gt;🆓 Freebies&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.1001freefonts.com/&quot;&gt;1001 Free Fonts&lt;/a&gt; - 1001 Fontes gratuitas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.365psd.com/&quot;&gt;365 PSD&lt;/a&gt; - Itens gratuitos o ano inteiro&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codester.com/free/&quot;&gt;Codester Freebies&lt;/a&gt; - Temas e projetos de codificações grátis semanalmente&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://freebbble.com/&quot;&gt;Freebbble&lt;/a&gt; - Freebies do Dribbble&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://freebiesbug.com/&quot;&gt;Freebiesbug&lt;/a&gt; - Site com arquivos digitais gratuitos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fundlebundle.net/freebies&quot;&gt;FundleBundle&lt;/a&gt; - Freebies gratuitos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://greensock.com/examples-showcases&quot;&gt;GreenSock&lt;/a&gt; - Showcase de aplicações inspiradoras&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://html5up.net/&quot;&gt;HTML5 UP&lt;/a&gt; - Templates gratuitos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sharebootstrap.com/&quot;&gt;ShareBootstrap&lt;/a&gt; - Templates Bootstrap gratuitos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://themeforest.net/free/wordpress-themes&quot;&gt;ThemeForest WordPress Freebies&lt;/a&gt; - 3 temas premium gratuitos do WordPress mensalmente&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://themewagon.com/theme_tag/free/&quot;&gt;ThemeWagon Freebies&lt;/a&gt; - Temas HTML5 + CSS3 gratuitos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-ides-e-editores-de-código&quot;&gt;📝 IDEs e editores de código&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt; - Editor de código do GitHub&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.barebones.com/products/bbedit/&quot;&gt;BBEdit&lt;/a&gt; - Editor de código para Mac OS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://brackets.io/&quot;&gt;Brackets&lt;/a&gt; - Editor de código da Adobe&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codeblocks.org/&quot;&gt;CodeBlocks&lt;/a&gt; - IDE para C e C++&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourceforge.net/projects/orwelldevcpp/&quot;&gt;Dev C++&lt;/a&gt; - IDE Dev C++ para liguagem C/C++&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/downloads/&quot;&gt;Eclipse&lt;/a&gt; - IDE software livre da IBM&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;IntelliJ IDEA&lt;/a&gt; - IDE da Jetbrains&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netbeans.org/&quot;&gt;NetBeans&lt;/a&gt; - IDE gratuita da Apache&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://notepad-plus-plus.org/&quot;&gt;Notepad++&lt;/a&gt; - Editor de código raíz&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/phpstorm/&quot;&gt;PHPStorm&lt;/a&gt; - IDE específica para PHP&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/pycharm/&quot;&gt;PyCharm&lt;/a&gt; - IDE específica para Python&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt; - Sua licença expirou&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://visualstudio.microsoft.com/pt-br/vs/&quot;&gt;Visual Studio&lt;/a&gt; - IDE da Microsoft&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; - Editor de código da Microsoft&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-design-front-end&quot;&gt;🖌 Design Front-end&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.adobe.com/br/products/xd.html&quot;&gt;Adobe XD&lt;/a&gt; - Software de design para projetos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.awwwards.com&quot;&gt;Awwwards&lt;/a&gt; - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt; - Framework CSS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://buildbootstrap.com/&quot;&gt;BuildBootstrap&lt;/a&gt; - Crie layout responsivo para o framework Bootstrap na versão 3 e 4&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bulma.io/&quot;&gt;Bulma CSS&lt;/a&gt; - Estrutura CSS gratuita baseada no Flexbox&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.canva.com/&quot;&gt;Canva&lt;/a&gt; - Ferramenta de design online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.colorsandfonts.com/&quot;&gt;Colors and Fonts&lt;/a&gt; - Apresenta paletas de cores e tipografia&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://coolors.co/&quot;&gt;Coolors&lt;/a&gt; - Insipire-se. Este site possui diversas palhetas de cores e ainda permite que você monte a sua própria palheta.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cruip.com/&quot;&gt;Cruip&lt;/a&gt; - Recursos de templates&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://emilkowalski.github.io/css-effects-snippets/&quot;&gt;CSS Effects Snippets&lt;/a&gt; - Animações CSS prontas para usar&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://css-tricks.com/&quot;&gt;CSS Tricks&lt;/a&gt; - Blog com vários tutoriais frontend&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.figma.com/&quot;&gt;Figma&lt;/a&gt; - Desenhe projetos online de apps, softwares e websites&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.flatuicolorpicker.com/&quot;&gt;Flatui Color Picker&lt;/a&gt; - Paleta de cores interativa de forma harmonizar o front&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fontflipper.com/&quot;&gt;Font Flipper&lt;/a&gt; - Ferramenta para testar fontes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fontpair.co/&quot;&gt;FontPair&lt;/a&gt; - Ferramenta para combinações de fontes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fontspark.app/&quot;&gt;FontSpark&lt;/a&gt; - Gera fontes aleatórias de uma lista de fontes famosas usadas na web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://foundation.zurb.com/&quot;&gt;Foundation&lt;/a&gt; - Framework responsivo&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.framer.com/&quot;&gt;Framer&lt;/a&gt; - Ferramenta de criação de interfaces interativas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://freefrontend.com/&quot;&gt;FreeFrontEnd&lt;/a&gt; - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.designer.io&quot;&gt;Gravit Designer&lt;/a&gt; - Ferramenta de design online com suporte a ilustração vetorial&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://interfacer.xyz/&quot;&gt;Interfacer&lt;/a&gt; - Recursos para criação de interfaces&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://interfaces.pro/&quot;&gt;Interfaces.pro&lt;/a&gt; - Inspiração para interfaces&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/&quot;&gt;Invision&lt;/a&gt; - Software de design para projetos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lottiefiles.com/&quot;&gt;Lottie&lt;/a&gt; - Animações em after effects via json&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/OfficialMarinho/luna&quot;&gt;Luna&lt;/a&gt; - Framework CSS brasileiro&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://material-ui.com/&quot;&gt;Material-UI&lt;/a&gt; - Um framework de interface de usuário para React&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mockup.io/about/&quot;&gt;Mockup&lt;/a&gt; - Visualize e colabore no design de aplicativos para dispositivos móveis&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nostalgic-css.github.io/NES.css/&quot;&gt;Nes.css&lt;/a&gt; - Framework CSS estilo NES&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neumorphism.io/&quot;&gt;Neumorphism&lt;/a&gt; - Tendência aplicação border-radius&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://necolas.github.io/normalize.css/&quot;&gt;Normalize CSS&lt;/a&gt; - Normaliza estruturas entre navegadores&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pixilart.com/draw&quot;&gt;Pixilart&lt;/a&gt; - Desenhe pixel arts online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://psd-to-css-shadows.com/&quot;&gt;PSD-To-CSS-Shadow&lt;/a&gt; - Gera o script para uma sombra (box-shadow &amp;amp; text-shadow) no CSS baseado nas configurações de sombra no Photoshop&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://purecss.io/&quot;&gt;Pure.css&lt;/a&gt; - Framework CSS responsivo&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.remove.bg/&quot;&gt;Remove.bg&lt;/a&gt; - Remove fundos de imagens automaticamente&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sketch.com/&quot;&gt;Sketch&lt;/a&gt; - Desenvolvimento de layouts em alta qualidade&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://squoosh.app/&quot;&gt;Squoosh.app&lt;/a&gt; - Compressor de imagens e comparador, via navegador&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uigradients.com/&quot;&gt;UI Gradients&lt;/a&gt; - UI gradientes para utilizar&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://whimsical.com/&quot;&gt;Whimsical&lt;/a&gt; - Flowchart, Wireframe, Sticky Notes e Mind Map&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-biblioteca-de-ícones&quot;&gt;🖌 Biblioteca de ícones&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://feathericons.com/&quot;&gt;Feather Icons&lt;/a&gt; - Ícones gratuitos e customizáveis&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fontawesome.com&quot;&gt;Font Awesome&lt;/a&gt; - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://icofont.com&quot;&gt;Iconfonts&lt;/a&gt; - Mais de 2100 ícones gratuitos para incrementar seus designs criativos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iconscout.com/&quot;&gt;Iconscout&lt;/a&gt; - Site reúne grande acervo de ícones gratuitos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lineicons.com/icons&quot;&gt;LineIcons&lt;/a&gt; - Mais de 2000 ícone no estilo line icons&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://app.streamlineicons.com&quot;&gt;Streamline&lt;/a&gt; - Biblioteca repleta de ícones para ser usado&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-ide-cloud&quot;&gt;☁ IDE Cloud&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeanywhere.com/&quot;&gt;CodeAnywhere&lt;/a&gt; - Plataforma de codificação na nuvem&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codechef.com/ide&quot;&gt;CodeChef&lt;/a&gt; - Plataforma de codificação na nuvem&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tutorialspoint.com/codingground.htm&quot;&gt;Coding Ground&lt;/a&gt; - Várias plataformas de codificação online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devmind.io/&quot;&gt;Devmind.io&lt;/a&gt; - Editor de código online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gitpod.io/&quot;&gt;Gitpod&lt;/a&gt; - IDE online para GitHub&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ideone.com/&quot;&gt;IDE One&lt;/a&gt; - IDE online para C, Python, Java, etc&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mycompiler.io/&quot;&gt;My Compiler&lt;/a&gt; - IDE online com suporte para diversas linguagens&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://repl.it/&quot;&gt;Repl.it&lt;/a&gt; - Plataforma de codificação na nuvem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-linguagens-de-programação&quot;&gt;🔤 Linguagens de programação&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/pt-br/dotnet/csharp/&quot;&gt;C#&lt;/a&gt; - Linguagem de programação baseada no C++&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://clojure.org/&quot;&gt;Clojure&lt;/a&gt; - Linguagem de programação funcional (muito utilizada para IAs)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dart.dev/&quot;&gt;Dart&lt;/a&gt; - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://elixir-lang.org/&quot;&gt;Elixir&lt;/a&gt; - Linguagem de programação funcional executada na máquina virutal Erlang&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/pt-br/dotnet/fsharp/&quot;&gt;F#&lt;/a&gt; - Linguagem de programação orientada a objetos e funcional&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://golang.org/&quot;&gt;Go&lt;/a&gt; - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.java.com/pt_BR/&quot;&gt;Java&lt;/a&gt; - Linguagem de programação tipada, orientada a objetos e de alta performance&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://brasil.js.org&quot;&gt;JavaScript&lt;/a&gt; - Constante evolução e crescimento no mercado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.perl.org/&quot;&gt;Perl&lt;/a&gt; - Linguagem de programação multiplataforma e dinâmica&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.php.net/&quot;&gt;PHP&lt;/a&gt; - A linguagem de programação dominante na web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt; - Muito indicada para projetos de dados, inteligência artificial e chatbot&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ruby-lang.org/pt/&quot;&gt;Ruby&lt;/a&gt; - Linguagem de programação de multiparadigma e tipagem dinâmica&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rust-lang.org/pt-BR/&quot;&gt;Rust&lt;/a&gt; - Linguagem para sistemas rápidos, concorrentes e seguros&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/br/swift/&quot;&gt;Swift&lt;/a&gt; - Criada pela Apple para principalmente desenvolvimento de apps para iPhone&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/pt-br/dotnet/visual-basic/&quot;&gt;Visual Basic&lt;/a&gt; - Linguagem de programação da Microsoft (com IDE gráfica)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-guia-de-estilo&quot;&gt;📕 Guia de Estilo&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/airbnb/javascript&quot;&gt;Airbnb - Javascript&lt;/a&gt; - Guia de estilo de código em JavaScript do Airbnb&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/airbnb/ruby&quot;&gt;Airbnb - Ruby&lt;/a&gt; - Guia de estilo de código em Ruby do Airbnb&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/google/eng-practices&quot;&gt;Google - Boas práticas em Engenharia&lt;/a&gt; - Boas práticas de Engenharia utilizadas pelos internos da Google&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://google.github.io/styleguide/cppguide.html&quot;&gt;Google - C++&lt;/a&gt; - Guia de estilo de código em C++ do Google&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://google.github.io/styleguide/pyguide.html&quot;&gt;Google - Python&lt;/a&gt; - Guia de estilo de código em Python do Google&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-desafios&quot;&gt;📁 Desafios&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/florinpop17/app-ideas&quot;&gt;App Ideas&lt;/a&gt; - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/codigofalado/desafio333&quot;&gt;Desafio333&lt;/a&gt; - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.devchallenge.com.br/&quot;&gt;DevChallenge&lt;/a&gt; - Site com desafios de front-end, back-end e mobile&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/felipefialho/frontend-challenges&quot;&gt;Frontend Challengens&lt;/a&gt; - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-aumentando-o-network&quot;&gt;👥 Aumentando o network&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/osadpa/&quot;&gt;APDA&lt;/a&gt; - Associação de Programadores Depressivos Anônimos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://comunidade.codigopratodos.com/&quot;&gt;Comunidade CodigoPraTodos&lt;/a&gt; - Comunidade CodigoPraTodos no Discord e Forum&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discord.gg/YeeEAYj&quot;&gt;Comunidade ColabCode&lt;/a&gt; - Comunidade ColabCode no Discord&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discord.gg/3y4X9pm&quot;&gt;Comunidade Código Falado&lt;/a&gt; - Comunidade do Código Falado no Discord&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://perifacode.com/&quot;&gt;Comunidade PerifaCode&lt;/a&gt; - Comunidade PerifaCode&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discordapp.com/invite/gCRAFhc&quot;&gt;Comunidade Rocketseat&lt;/a&gt; - Comunidade Rocketseat no Discord&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/&quot;&gt;Dev.to&lt;/a&gt; - Rede social para desenvolvedores&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.community/&quot;&gt;GitHub Community Forum&lt;/a&gt; - Comunidade de desenvolvedores do GitHub&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://listatelegram.github.io/&quot;&gt;Grupos no Telegram&lt;/a&gt; - Lista de grupos de tecnologia no Telegram&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/102474963422805/&quot;&gt;Tecnogrupo&lt;/a&gt; - Grupo de Tecnologia do Tecnoblog&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-estudos&quot;&gt;👨‍🏫 Estudos&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alligator.io&quot;&gt;Alligator&lt;/a&gt; - Aulas gratuitas do básico ao avançado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/pt/training/&quot;&gt;AWS Training and Certification&lt;/a&gt; - Treinamento oficial da Amazon para o serviço AWS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.casadocodigo.com.br/&quot;&gt;Casa do Código&lt;/a&gt; - Livros sobre programação e tecnologias em geral&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netacad.com/pt-br&quot;&gt;Cisco NetAcad&lt;/a&gt; - Cursos de redes de computadores e programação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codecademy.com/&quot;&gt;CodeAcademy&lt;/a&gt; - Academia digital de ensino sobre programação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/&quot;&gt;Coursera&lt;/a&gt; - Cursos gratuitos com conteúdos conceituados&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cssgridgarden.com/&quot;&gt;CSS Grid Garden&lt;/a&gt; - Ferramenta online para estudos de Grid (CSS)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/diogocezar/dctb-react-course&quot;&gt;Curso de React Básico&lt;/a&gt; - Aprenda React criando um sistema que exibe todos os repositórios de um usuário ou empresa no GitHub&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cursoemvideo.com/&quot;&gt;Curso em Vídeo&lt;/a&gt; - Cursos básicos gratuitos para iniciantes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://deeplearningbook.com.br&quot;&gt;Deep Learning Book&lt;/a&gt; - Livro digital gratuito sobre aprendizado em deep learning&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://digitalinnovation.one/&quot;&gt;Digital Innovation One&lt;/a&gt; - Plataforma de ensino gratuita que desenvolve e conecta talentos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.edx.org/&quot;&gt;edX&lt;/a&gt; - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://braziljs.github.io/eloquente-javascript/&quot;&gt;Eloquent Javascript&lt;/a&gt; - Livro grátis sobre Javascript, programação e maravilhas digitais&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cursos.erickwendel.com.br/&quot;&gt;Erick Wendel&lt;/a&gt; - Cursos de Nodejs Gratuito com certificado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://exercism.io/&quot;&gt;Exercism&lt;/a&gt; - Pratique seus conhecimentos em programação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://explainshell.com/&quot;&gt;Explain Shell&lt;/a&gt; - Digite um comando e descubra sua função&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt-br.facebook.com/business/learn/courses&quot;&gt;Facebook Business&lt;/a&gt; - Cursos de marketing oficiais do Facebook&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.flexboxdefense.com/&quot;&gt;Flexbox Defense&lt;/a&gt; - Aprenda flexbox com um game&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://flexboxfroggy.com/&quot;&gt;Flexbox Froggy&lt;/a&gt; - Ferramenta online para estudos de Flexbox (CSS)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://flukeout.github.io/&quot;&gt;Flukeout&lt;/a&gt; - Aplicação online para aprender CSS de forma prática&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.freetechbooks.com&quot;&gt;Free Tech Books&lt;/a&gt; - Livros e ebooks grátis sobre tecnologia&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/&quot;&gt;FreeCodeCamp&lt;/a&gt; - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rogerdudler.github.io/git-guide/index.pt_BR.html&quot;&gt;git - comandos&lt;/a&gt; - Lista de comandos Git&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rogerdudler.github.io/git-guide/index.pt_BR.html&quot;&gt;git - guia prático&lt;/a&gt; - Apenas um guia prático para começar com Git&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitexplorer.com/&quot;&gt;Git Explorer&lt;/a&gt; - Encontre os comandos corretos do Git para o que você precisa&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lab.github.com/courses&quot;&gt;GitHub Learning Lab&lt;/a&gt; - Plataforma de estudos do GitHub&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://goalkicker.com/&quot;&gt;GoalKicker&lt;/a&gt; - Livros de programação gratuitos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://grid.malven.co/&quot;&gt;Grid Malven&lt;/a&gt; - Documentação interessante sobre Grid (CSS)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://comunidade.codigopratodos.com/t/grupo-de-estudos-gratuito-cpt-harvard-cs50/218&quot;&gt;Grupo de Estudos CS50&lt;/a&gt; - Grupo de Estudos Brasileiro da Cadeira CS50 da Harvard, tutorial de tradução das aulas, lives com as resoluções dos exercícios e estudos dos temas abordados no curso&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com&quot;&gt;HackerRank&lt;/a&gt; - Pratique seus conhecimentos com algoritmos e atividades&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackr.io/&quot;&gt;Hackr.io&lt;/a&gt; - Documentações e cursos de inúmeras linguagens, frameworks e ferramentas.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jstherightway.org/pt-br/&quot;&gt;JS: A forma certa&lt;/a&gt; - Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.khanacademy.org/&quot;&gt;Khan Academy&lt;/a&gt; - Plataforma de estudos conceituada sobre aprendizado gamificado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.macoratti.net/Default.aspx&quot;&gt;Macorrati&lt;/a&gt; - Tutoriais e cursos sobre desenvolvimento em .NET&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/pt-br/learning&quot;&gt;Microsoft Learning&lt;/a&gt; - Cursos gratuitos e pagos oficiais da Microsoft&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/DwarfThief/Raspagem-de-dados-para-iniciantes&quot;&gt;Raspagem de dados para iniciante&lt;/a&gt; - Tutorial sobre WebCrawling&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rocketseat.com.br/&quot;&gt;Rocketseat&lt;/a&gt; - Cursos gratuitos sobre as tecnologias mais quentes do mercado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.schoolofnet.com/&quot;&gt;School of Net&lt;/a&gt; - Escola Online de Tecnologia&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scrimba.com&quot;&gt;Scrimba&lt;/a&gt; - Aulas gratuitas do básico ao avançado reproduzidas em vídeo com opções de teste durante a aula&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shellterlabs.com/pt/&quot;&gt;Shellter Labs&lt;/a&gt; - Lições e exercícios sobre Segurança de Informação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://silentteacher.toxicode.fr/&quot;&gt;Silent Teacher&lt;/a&gt; - Aprenda JavaScript com um game&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sololearn.com/&quot;&gt;SoloLearn&lt;/a&gt; - Aprenda a programar gratuitamente pelo celular ou web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.stackoverflow.com/&quot;&gt;StackOverflow&lt;/a&gt; - Maior portal de perguntas e respostas sobre tecnologia no mundo&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/felipefialho/frontend-challenges&quot;&gt;Testes/desafios para vagas de emprego em front-end&lt;/a&gt; - Treine suas habilidades em front-end para desafios de vagas de emprego&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cursos.timtec.com.br/&quot;&gt;TIM Tec&lt;/a&gt; - Cursos de tecnologia gratuitos (parceria entre a TIM e o MEC)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.treinadev.com.br/&quot;&gt;TreinaDev&lt;/a&gt; - Programa gratuito de formação de devs da Campus Code&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.treinaweb.com.br/&quot;&gt;TreinaWeb&lt;/a&gt; - Escola digital para desenvolvedores&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udacity.com/&quot;&gt;Udacity&lt;/a&gt; - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing, etc)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/courses/development/?price=price-free&amp;amp;sort=popularity&quot;&gt;Udemy Development&lt;/a&gt; - +1.400 cursos de desenvolvimento gratuitos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/courses/it-and-software/?price=price-free&amp;amp;lang=pt&amp;amp;sort=popularity&quot;&gt;Udemy IT&lt;/a&gt; - +100 cursos de TI e softwares&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/&quot;&gt;W3&lt;/a&gt; - Conteúdos mais completos sobre HTML, CSS e JS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://w3resource.com&quot;&gt;W3Resources&lt;/a&gt; - Exercícios online para praticar de inúmeras linguagens&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com&quot;&gt;W3Schools&lt;/a&gt; - Inúmeras documentações explicadas de forma intuitiva&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.wikibooks.org/wiki/Programar_em_C&quot;&gt;WikiBooks&lt;/a&gt; - Livros, artigos e tutoriais gratuitos para iniciantes que desejam programar em C&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cezaraugusto/You-Dont-Know-JS/&quot;&gt;You Dont Know JS - Tradução PT-BR&lt;/a&gt; - Série de livros sobre Javascript traduzida para Português Brasileiro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-hosting&quot;&gt;🏨 Hosting&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.1freehosting.com/&quot;&gt;1FreeHosting&lt;/a&gt; - Hospedagem de sites grátis com 100GB de largura de banda&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.2freehosting.com/&quot;&gt;2FreeHosting&lt;/a&gt; - Hospedagem de sites internacional grátis&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/pt/&quot;&gt;Amazon Web Services&lt;/a&gt; - Serviço de aluguel de servidores e outros serviços&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bluehost.com/&quot;&gt;BlueHost&lt;/a&gt; - Empresa americana de hospedagem de sites&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/&quot;&gt;DigitalOcean&lt;/a&gt; - Aluguel de servidores dedicados e compartilhados&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dreamhost.com/&quot;&gt;DreamHost&lt;/a&gt; - Hospedagem de sites de alta disponibilidade&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.embratel.com.br/cloud/hospedagem-de-sites&quot;&gt;Embratel&lt;/a&gt; - Hospedagem de sites nacional&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://br.godaddy.com/hosting/web-hosting&quot;&gt;GoDaddy&lt;/a&gt; - Hospedagem de sites internacional&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://br.godaddy.com/&quot;&gt;GoDaddy&lt;/a&gt; - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/solutions/smb/web-hosting/&quot;&gt;Google Cloud&lt;/a&gt; - Serviço de aluguel de servidores da Google&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.heroku.com/&quot;&gt;Heroku&lt;/a&gt; -  Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hostgator.com/&quot;&gt;HostGator&lt;/a&gt; - Hospedagem compartilhada e dedicada para sites e serviços&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hostinger.com.br/&quot;&gt;Hostinger&lt;/a&gt; - Hospedagem de sites&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hostoo.io/&quot;&gt;Hostoo&lt;/a&gt; - Hospedagem de sites em cloud computing dedicado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ipage.com/&quot;&gt;iPage&lt;/a&gt; - Hospedagem de sites gringa com descontos para anúncios&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://king.host/&quot;&gt;KingHost&lt;/a&gt; - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.one.com/pt-BR/&quot;&gt;One.com&lt;/a&gt; - Serviços gerais digitais (incluindo hospedagem de sites)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://surge.sh/&quot;&gt;Surge&lt;/a&gt; - Hospedagem gratuita para páginas estáticas&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.umbler.com/br&quot;&gt;Umbler&lt;/a&gt; - Hospedagem compartilhada, cloud computing sob taxação de uso&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vercel.com/&quot;&gt;Vercel&lt;/a&gt; -  Hospedagem grátis de sites estáticos e serveless&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-pentest&quot;&gt;🔓 Pentest&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://beefproject.com/&quot;&gt;Beef-Project&lt;/a&gt; - Framework de exploração de browser&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://capturetheflag.com.br/&quot;&gt;Capture The Flag - CTF&lt;/a&gt; - Desafios reais de hacking, desenvolvido por especialistas brasileiros&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackthebox.eu/&quot;&gt;HackTheBox&lt;/a&gt; - Site com laboratórios para praticar pentest de forma gratuita e legal&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hstrike.com/&quot;&gt;HStrike&lt;/a&gt; - Ferramentas de pentest em nuvem&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.httrack.com/&quot;&gt;HTTRack&lt;/a&gt; - Browser utility&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.paterva.com/&quot;&gt;Maltego&lt;/a&gt; - Ambiente open source para análise de redes completa&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nmap.org/&quot;&gt;NMap&lt;/a&gt; - Scanner de portas de rede&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://picoctf.com/&quot;&gt;picoCTF&lt;/a&gt; -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sqlmap.org/&quot;&gt;SQLMap&lt;/a&gt; - Ferramenta de teste de penetração open source que automatiza injeção de SQL&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-canais-no-youtube&quot;&gt;🎥 Canais no YouTube&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/aluracursosonline&quot;&gt;Alura&lt;/a&gt; - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/androiddevelopers&quot;&gt;Android Developers&lt;/a&gt; - Canal oficial da comunidade de desenvolvedores do Android&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/BrazilJS&quot;&gt;BrazilJS&lt;/a&gt; - Canal do maior evento de JavaScript da América Latina&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ&quot;&gt;Cod3r Cursos&lt;/a&gt; - Canal com aulas e cursos gratuitos sobre diversas tecnlogias&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/CodeShowBR&quot;&gt;CodeShow&lt;/a&gt; - Canal sobre Python e Rust&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UClFE1N_sMek7cyvwsAK_XJQ&quot;&gt;CodigoPraTodos&lt;/a&gt; - Canal com lives de resolução de exercícios do CS50 e mais dicas de programação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg&quot;&gt;CollabCode&lt;/a&gt; - Lives insanas sobre JS, front-end, etc&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ&quot;&gt;Curso em Vídeo&lt;/a&gt; - Canal de cursos de tecnologia gratuitos&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/codigofontetv&quot;&gt;CódigoFonteTV&lt;/a&gt; - Leon e Nilce da programação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/c/DanielDonda&quot;&gt;Daniel Donda&lt;/a&gt; - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw&quot;&gt;Dev Samurai&lt;/a&gt; - Canal sobre tecnologia e comunidade de desenvolvedores&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ&quot;&gt;DevMedia&lt;/a&gt; - Canal de um dos maiores portais sobre programação do Brasil&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/diolinux&quot;&gt;Diolinux&lt;/a&gt; - Canal sobre o mundo Unix e outras tecnologias&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/especializati&quot;&gt;EspecializaTI&lt;/a&gt; - Cursos gratuitos sobre PHP, Laravel, Linux e HTML+CSS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/AkitaOnRails&quot;&gt;Fabio Akita&lt;/a&gt; - Canal sobre tecnologia e desenvolvimento&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/FacebookDevelopers&quot;&gt;Facebook Developers&lt;/a&gt; - Canal oficial da comunidade de desenvolvedores do Facebook&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw&quot;&gt;Felipe Deschamps&lt;/a&gt; - Desenvolvedor da Pagar.me e criador de robôs com inteligencia artificial que irão dominar o mundo (a revolução começa com ele)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ&quot;&gt;Felipe Elia&lt;/a&gt; - Canal sobre programação para Web com foco em WordPress&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/Filhodanuvem&quot;&gt;Filho da nuvem&lt;/a&gt; - Canal sobre desenvolvimento de testes automatizados, GitHub, PHP, Golang e outras linguagens&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A&quot;&gt;Flutterando&lt;/a&gt; - Canal sobre desenvolvimento de interface com Flutter&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A&quot;&gt;Fábrica de Noobs&lt;/a&gt; - Canal com intruduções a conceitos básicos dentro da computação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ&quot;&gt;Gabriel Pato&lt;/a&gt; - Canal sobre tecnologia e hacking&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/GoogleDevelopers&quot;&gt;Google Developers&lt;/a&gt; - Canal oficial da comunidade de desenvolvedores da Google&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/LimaoAzeddo&quot;&gt;Guru da Ciência&lt;/a&gt; - Canal sobre tecnologia e ciências&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ&quot;&gt;ProgramadorBR&lt;/a&gt; - Programador brasileiro com atual residência no Canadá&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg&quot;&gt;Rocketseat&lt;/a&gt; - Projeto de ensino gratuito sobre as tecnologias mais quentes do mercado&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/rodrigobranas&quot;&gt;Rodrigo Branas&lt;/a&gt; - Canal sobre desenvolvimento web com foco em JavaScript&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg&quot;&gt;TekZoom&lt;/a&gt; - Canal raíz sobre tecnologia do YouTube&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-podcasts&quot;&gt;🎙 Podcasts&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cabecadelab.com.br/&quot;&gt;Cabeça de Labs&lt;/a&gt; - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.carreirasemfronteiras.com.br/&quot;&gt;Carreira sem Fronteiras&lt;/a&gt; - Podcast com brasileiros que vivem e trabalham no exterior&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.b9.com.br/shows/codigoaberto/&quot;&gt;Codigo Aberto&lt;/a&gt; - Conversas com os profissionais mais influentes do mercado sobre o futuro da mídia, da tecnologia e da comunicação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devnaestrada.com.br/&quot;&gt;DevNaEstrada&lt;/a&gt; - Desenvolvimento web em geral&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://castbox.fm/app/castbox/player/id1323408&quot;&gt;DioCast&lt;/a&gt; - Tecnologia geral do canal DioLinux&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW&quot;&gt;FalaDev&lt;/a&gt; - Podcast da Rocketseat sobre desenvolvimento&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ufrgs.br/frontdaciencia/&quot;&gt;Fronteiras da Ciência&lt;/a&gt; - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hipsters.tech/&quot;&gt;Hipsters.tech&lt;/a&gt; - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mission.org/itvisionaries/&quot;&gt;IT Visionaries (em inglês)&lt;/a&gt; - Tecnologias quentes e inovação&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lambda3.com.br/tag/podcast/&quot;&gt;Lambda3&lt;/a&gt; - Desenvolvimento de software e tecnologia em geral&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linuxtips.io/podcast&quot;&gt;LinuxTips&lt;/a&gt; - Linux, DevOps, Docker e T.I&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jovemnerd.com.br/nerdcast/&quot;&gt;NerdCast&lt;/a&gt; - Tecnologia, ciência e universo POP&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pizzadedados.com/&quot;&gt;Pizza de dados&lt;/a&gt; -  Ciência de dados e conselhos de carreira&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podprogramar.com.br/&quot;&gt;PodProgramar&lt;/a&gt; - Focado em programação, notícias e histórias da área&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podtag.com.br/&quot;&gt;PodTag&lt;/a&gt; - Desenvolvimento de software e tecnologia em geral&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quebradev.com.br/&quot;&gt;QuebraDev&lt;/a&gt; - Quebrada + tecnologia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-business&quot;&gt;🏢 Business&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bossabox.com/&quot;&gt;BossaBox&lt;/a&gt; - Rede de desenvolvedores, designers e gerentes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeinterview.io/&quot;&gt;CodeInterview&lt;/a&gt; - Realize entrevistas de emprego com codificação ao vivo&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://impulso.network/&quot;&gt;Impulso&lt;/a&gt; - Uma rede gratuita para impulsionar o seu crescimento profissional&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rocket.chat/&quot;&gt;Rocket.Chat&lt;/a&gt; - Chat corporativo open-source e gratuito para equipes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dúvidas&quot;&gt;Dúvidas?&lt;/h3&gt;
+&lt;p&gt;Ficou com dúvida? me chama lá no &lt;a href=&quot;https://github.com/rodrigosantucci/&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;center&gt;&lt;b&gt;Esse conteúdo foi útil?&lt;/b&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=2X9NF2H8CTTU4&amp;amp;source=url&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/paypal-donate-blue.svg&quot; alt=&quot;Donate&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="GitHub" /><category term="Links" /><category term="Lista de links" /><category term="Repositório" /><summary type="html">Apanhado de links úteis para desenvolvimento do GitHub</summary></entry><entry><title type="html">Princípios S.O.L.I.D em imagens</title><link href="http://localhost:4000/principios-solid-com-imagens/" rel="alternate" type="text/html" title="Princípios S.O.L.I.D em imagens" /><published>2020-09-08T00:00:00-03:00</published><updated>2020-09-08T00:00:00-03:00</updated><id>http://localhost:4000/principios-solid-com-imagens</id><content type="html" xml:base="http://localhost:4000/principios-solid-com-imagens/">&lt;center&gt;&lt;h1&gt;S.O.L.I.D&lt;/h1&gt; &lt;/center&gt;
 
 &lt;p&gt;É um acrônimo dos 5 princípios de desenvolvimento orientado a objetos que nada mais nada menos são guias a serem seguidos quando o objetivo é construir um software que seja escalável e de fácil manutenção, esses 5 princípios foram criados por um famoso engenheiro de software chamado Robert C. Martin, o famoso “Uncle Bob”.&lt;/p&gt;
 
@@ -21,11 +466,7 @@
 &lt;h3 id=&quot;o---open-closed&quot;&gt;O - Open-Closed&lt;/h3&gt;
 &lt;p&gt;Classes devem ser abertas para extensões, porém fechadas para modificações. Mudar o comportamento corrente da classe, afetará todos os sistemas utilizando a classe. Se a intenção for adicionar mais funções a classe, a abordagem ideal é adicionar a nova funcionalidade a classe sem que seja modificada a função que ja existe.&lt;/p&gt;
 
-&lt;h3 id=&quot;l---liskov-substitution&quot;&gt;L - Liskov Substitution&lt;/h3&gt;
-
-&lt;h3 id=&quot;i---interface-segregation&quot;&gt;I - Interface Segregation&lt;/h3&gt;
-
-&lt;h3 id=&quot;d---dependency-inversion&quot;&gt;D - Dependency Inversion&lt;/h3&gt;
+&lt;h1 id=&quot;continua&quot;&gt;Continua…&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Fonte: &lt;a href=&quot;https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898&quot;&gt;Ugonna Thelma&lt;/a&gt;&lt;/li&gt;
@@ -650,101 +1091,4 @@ mathjax: true
       \vdots \\
       y_n
     \end{array} \right)
-\end{align*} %]]&gt;&lt;/script&gt;</content><author><name></name></author><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry><entry><title type="html">Syntax Highlighting Post</title><link href="http://localhost:4000/post_de_codigo/" rel="alternate" type="text/html" title="Syntax Highlighting Post" /><published>2013-08-16T00:00:00-03:00</published><updated>2013-08-16T00:00:00-03:00</updated><id>http://localhost:4000/post_de_codigo</id><content type="html" xml:base="http://localhost:4000/post_de_codigo/">&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;highlighted-code-blocks&quot;&gt;Highlighted Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets/css/syntax.css&lt;/code&gt;.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pagination&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;navigation&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    {% if page.previous %}
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.previous.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.previous.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-    {% if page.next %}
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.next.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.next.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TagIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Page&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@site&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@base&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'index.html'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;read_yaml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'_layouts'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'tag_index.html'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_prefix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Tagged: '&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_suffix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_suffix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&amp;amp;#8211;'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'title'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'description'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&quot;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;standard-code-block&quot;&gt;Standard Code Block&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&amp;gt;
-    {% if page.previous %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
-    {% endif %}
-    {% if page.next %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
-    {% endif %}
-&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;fenced-code-blocks&quot;&gt;Fenced Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets/css/syntax.css&lt;/code&gt;. Line numbers and a few other things can be modified in &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;. Consult &lt;a href=&quot;http://jekyllrb.com/docs/configuration/&quot;&gt;Jekyll’s documentation&lt;/a&gt; for more information.&lt;/p&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pagination&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;navigation&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    {% if page.previous %}
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.previous.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.previous.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-    {% if page.next %}
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.next.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.next.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TagIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Page&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@site&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@base&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'index.html'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;read_yaml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'_layouts'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'tag_index.html'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_prefix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Tagged: '&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_suffix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_suffix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&amp;amp;#8211;'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'title'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'description'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&quot;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="sample post" /><category term="code" /><category term="highlighting" /><summary type="html">Demo post displaying the various ways of highlighting code in Markdown.</summary></entry></feed>
+\end{align*} %]]&gt;&lt;/script&gt;</content><author><name></name></author><category term="markdown" /><category term="mathjax" /><category term="example" /><category term="test" /><category term="jekyll" /><summary type="html">MathJax Example for Moon Jekyll Theme.</summary></entry></feed>
