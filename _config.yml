@@ -6,7 +6,7 @@ bio3:               "Back-end"
 bio4:               "Segurança"
 bio5:               "DevOps"
 bio6:               "Business Intelligence"
-bio7:               "Veja os posts"
+bio7:               "Próximos posts: Arquitetura REST, Docker, Spring Initializr"
 description:        "Guias, tutoriais, insight's e projetos."
 reading_time:       true
 words_per_minute:   200

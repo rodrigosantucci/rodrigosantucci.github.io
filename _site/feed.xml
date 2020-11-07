@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-07T08:48:05-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Lista de links úteis do Github</title><link href="http://localhost:4000/lista-de-links-uteis-do-github/" rel="alternate" type="text/html" title="Lista de links úteis do Github" /><published>2020-11-04T00:00:00-03:00</published><updated>2020-11-04T00:00:00-03:00</updated><id>http://localhost:4000/lista-de-links-uteis-do-github</id><content type="html" xml:base="http://localhost:4000/lista-de-links-uteis-do-github/">&lt;h2 id=&quot;-repositórios-úteis&quot;&gt;🗂 Repositórios úteis&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-07T12:59:51-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rodrigo Santucci</title><subtitle>Guias, tutoriais, insight's e projetos.</subtitle><entry><title type="html">Lista de links úteis do GitHub</title><link href="http://localhost:4000/lista-de-links-uteis-do-github/" rel="alternate" type="text/html" title="Lista de links úteis do GitHub" /><published>2020-11-04T00:00:00-03:00</published><updated>2020-11-04T00:00:00-03:00</updated><id>http://localhost:4000/lista-de-links-uteis-do-github</id><content type="html" xml:base="http://localhost:4000/lista-de-links-uteis-do-github/">&lt;h2 id=&quot;-repositórios-úteis&quot;&gt;🗂 Repositórios úteis&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/public-apis/public-apis&quot;&gt;Public APIs&lt;/a&gt; - Listagem de APIs Públicas&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/danistefanovic/build-your-own-x&quot;&gt;Make Your Own X&lt;/a&gt; - Faça seu próprio X&lt;/li&gt;
@@ -443,7 +443,7 @@
 
 &lt;center&gt;&lt;b&gt;Esse conteúdo foi útil?&lt;/b&gt;&lt;/center&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=2X9NF2H8CTTU4&amp;amp;source=url&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/paypal-donate-blue.svg&quot; alt=&quot;Donate&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="GitHub" /><category term="Links" /><category term="Lista de links" /><category term="Repositório" /><summary type="html">Apanhado de links úteis para desenvolvimento do GitHub</summary></entry><entry><title type="html">Princípios S.O.L.I.D em imagens</title><link href="http://localhost:4000/principios-solid-com-imagens/" rel="alternate" type="text/html" title="Princípios S.O.L.I.D em imagens" /><published>2020-09-08T00:00:00-03:00</published><updated>2020-09-08T00:00:00-03:00</updated><id>http://localhost:4000/principios-solid-com-imagens</id><content type="html" xml:base="http://localhost:4000/principios-solid-com-imagens/">&lt;center&gt;&lt;h1&gt;S.O.L.I.D&lt;/h1&gt; &lt;/center&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=2X9NF2H8CTTU4&amp;amp;source=url&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/paypal-donate-blue.svg&quot; alt=&quot;Donate&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="GitHub" /><category term="Links" /><category term="Lista de links" /><category term="Repositório" /><summary type="html">Apanhado de links úteis para desenvolvimento do GitHub</summary></entry><entry><title type="html">Princípios S.O.L.I.D</title><link href="http://localhost:4000/principios-solid-com-imagens/" rel="alternate" type="text/html" title="Princípios S.O.L.I.D" /><published>2020-09-08T00:00:00-03:00</published><updated>2020-09-08T00:00:00-03:00</updated><id>http://localhost:4000/principios-solid-com-imagens</id><content type="html" xml:base="http://localhost:4000/principios-solid-com-imagens/">&lt;center&gt;&lt;h1&gt;S.O.L.I.D&lt;/h1&gt; &lt;/center&gt;
 
 &lt;p&gt;É um acrônimo dos 5 princípios de desenvolvimento orientado a objetos que nada mais nada menos são guias a serem seguidos quando o objetivo é construir um software que seja escalável e de fácil manutenção, esses 5 princípios foram criados por um famoso engenheiro de software chamado Robert C. Martin, o famoso “Uncle Bob”.&lt;/p&gt;
 
@@ -451,7 +451,7 @@
    &lt;img style=&quot;width:200px; height:200px;&quot; src=&quot;https://live.staticflickr.com/8371/8580054912_45a48660fe_b.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;O objetivo principal, é obter de maneira mais simples um entendimento desses princípios que em primeiro momento podem ser um pouco complexos, mas que com imagens podem se tornar algo mais acessível de ser compreendido.&lt;/p&gt;
+&lt;p&gt;O objetivo principal, é obter de maneira mais simples um entendimento desses princípios que em primeiro momento podem ser um pouco complexos.&lt;/p&gt;
 
 &lt;p&gt;Os exemplos serão voltados a Classes para um melhor entendimento, porém podem ser aplicados para Funções, métodos ou até mesmo módulos.&lt;/p&gt;
 
@@ -463,19 +463,46 @@
 &lt;h3 id=&quot;objetivo&quot;&gt;Objetivo:&lt;/h3&gt;
 &lt;p&gt;O princípio Single Responsibility visa separar o comportamento das classes, para que ao se deparar com bugs resultantes de alguma mudança, um comportamento não relacionado com a classe alterada não será afetado.&lt;/p&gt;
 
-&lt;h3 id=&quot;o---open-closed&quot;&gt;O - Open-Closed&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;o---open-closed&quot;&gt;O - Open-Closed&lt;/h2&gt;
 &lt;p&gt;Classes devem ser abertas para extensões, porém fechadas para modificações. Mudar o comportamento corrente da classe, afetará todos os sistemas utilizando a classe. Se a intenção for adicionar mais funções a classe, a abordagem ideal é adicionar a nova funcionalidade a classe sem que seja modificada a função que ja existe.&lt;/p&gt;
 
-&lt;h1 id=&quot;continua&quot;&gt;Continua…&lt;/h1&gt;
+&lt;h3 id=&quot;objetivo-1&quot;&gt;Objetivo:&lt;/h3&gt;
+&lt;p&gt;Esse princípio tem como objetivo &lt;strong&gt;ESTENDER&lt;/strong&gt; o comportamento da classe sem &lt;strong&gt;ALTERAR&lt;/strong&gt; o comportamento já existente. Essa prática visa evitar erros quando a classe estiver em uso.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Fonte: &lt;a href=&quot;https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898&quot;&gt;Ugonna Thelma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;l--liskov-substitution&quot;&gt;L — Liskov Substitution&lt;/h2&gt;
+&lt;p&gt;Na substituição de Liskov, em um programa se S é um subtipo de T, então os objetos do tipo T, poderão ser substituídos com objetos do tipo S sem alterar nenhuma propriedade desejável desse programa. Quando uma classe filho(subtipo S do exemplo acima) não pode executar as mesmas ações sua classe pai(subtipo T), erros podem acontecer.&lt;/p&gt;
+
+&lt;p&gt;Em uma &lt;strong&gt;HERANÇA&lt;/strong&gt;, a classe filho deve ser capaz de processar e entregar o mesmo resultado ou um resultado do mesmo tipo que a classe pai.&lt;/p&gt;
+
+&lt;h3 id=&quot;objetivo-2&quot;&gt;Objetivo:&lt;/h3&gt;
+&lt;p&gt;Pensando em uma associação de palavras, uma &lt;strong&gt;CLASSE&lt;/strong&gt; nada mais é do que o produto de uma &lt;strong&gt;CLASSIFICAÇÃO&lt;/strong&gt;, um agrupamento de semelhantes ou parecidos. Sendo assim, desempenhando funções parecidas, esta prática visa uma maior consistência no código sem erros.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;i--interface-segregation&quot;&gt;I — Interface Segregation&lt;/h2&gt;
+&lt;p&gt;Na segregação de interface, os clientes não devem ser obrigados a depender dos métodos que eles não utilizam. Se uma Classe é forçada a executar ações que não são solicitadas, é criada a eminência de bugs. Uma Classe deve executar apenas ações que forem necessárias para cumprir sua função.&lt;/p&gt;
+
+&lt;h3 id=&quot;objetivo-3&quot;&gt;Objetivo:&lt;/h3&gt;
+&lt;p&gt;Esse princípio tem como objetivo dividir um conjunto de ações em conjuntos menores. Sendo assim, uma &lt;strong&gt;CLASSE&lt;/strong&gt; executará &lt;strong&gt;SOMENTE&lt;/strong&gt; o conjunto de ações que lhe for solicitada.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;d--dependency-inversion&quot;&gt;D — Dependency Inversion&lt;/h2&gt;
+&lt;p&gt;A partir de uma &lt;strong&gt;Classe&lt;/strong&gt; que desempenhe uma função X que depende de uma &lt;strong&gt;Ferramenta&lt;/strong&gt;, essa &lt;strong&gt;Classe&lt;/strong&gt; não deverá ser dependente da &lt;strong&gt;Ferramenta&lt;/strong&gt; para desempenhar sua função, e sim, uma &lt;strong&gt;Abstração&lt;/strong&gt; que nada mais é do que uma interface que liga a &lt;strong&gt;Classe&lt;/strong&gt; a &lt;strong&gt;Ferramenta&lt;/strong&gt; que ela necessita. Essa &lt;strong&gt;Abstração&lt;/strong&gt; deverá conter escopo do funcionamento da &lt;strong&gt;Ferramenta&lt;/strong&gt;, porém, a &lt;strong&gt;Ferramenta&lt;/strong&gt; precisará atender as especificações da interface.&lt;/p&gt;
+
+&lt;h3 id=&quot;objetivo-4&quot;&gt;Objetivo:&lt;/h3&gt;
+&lt;p&gt;O objetivo dessa prática visa diminuir a dependência de uma classe do sistema na ferramenta utilizada a partir da interface entre elas.&lt;/p&gt;
+
+&lt;h3 id=&quot;fonte-ugonna-thelma&quot;&gt;Fonte: &lt;a href=&quot;https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898&quot;&gt;Ugonna Thelma&lt;/a&gt;&lt;/h3&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;dúvidas&quot;&gt;Dúvidas?&lt;/h3&gt;
 &lt;p&gt;Ficou com dúvida? me chama lá no &lt;a href=&quot;https://github.com/rodrigosantucci/&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;center&gt;&lt;b&gt;Esse conteúdo foi útil?&lt;/b&gt;&lt;/center&gt;
 

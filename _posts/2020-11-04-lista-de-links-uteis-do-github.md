@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lista de links úteis do Github"
+title:  "Lista de links úteis do GitHub"
 date:   2020-11-04
 excerpt: "Apanhado de links úteis para desenvolvimento do GitHub"
 tag:
