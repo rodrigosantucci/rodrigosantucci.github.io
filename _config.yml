@@ -1,12 +1,12 @@
 # Site
 title:              Rodrigo Santucci
 bio1:               "Desenvolvimento Web"
-bio2:               "Front-End e Back-End"
-bio3:               "Business Intelligence"
+bio2:               "Front-end"
+bio3:               "Back-end"
 bio4:               "Segurança"
 bio5:               "DevOps"
-bio6:               "Gambiarra"
-bio7:               "Calma, to brincando... :D "
+bio6:               "Business Intelligence"
+bio7:               "Veja os posts"
 description:        "Guias, tutoriais, insight's e projetos."
 reading_time:       true
 words_per_minute:   200
