@@ -7,8 +7,6 @@ comments: true
 ---
 
 
-<center><div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="rodrigosantucci96">
-<a style="float: left;" class="LI-simple-link" href='https://br.linkedin.com/in/rodrigosantucci96?trk=profile-badge'>Rodrigo Santucci</a></div></center>
 
 
 ## Contéudo
