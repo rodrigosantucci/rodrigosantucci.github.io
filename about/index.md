@@ -9,7 +9,7 @@ comments: true
 
 
 
-## Contéudo
+<center> ## Contéudo </center>
 Serão compartilhadas semanalmente, dicas de desenvolvimento e tecnologia em geral, postagens relacionadas às tecnologias que venho aprendendo, bem como alguns projetos em que venho trabalhando.
 
 * Postagens
