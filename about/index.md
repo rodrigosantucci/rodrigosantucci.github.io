@@ -9,8 +9,8 @@ comments: true
 
 
 
-<center> ## Contéudo </center>
-Serão compartilhadas semanalmente, dicas de desenvolvimento e tecnologia em geral, postagens relacionadas às tecnologias que venho aprendendo, bem como alguns projetos em que venho trabalhando.
+## Contéudo
+Serão compartilhadas dicas de desenvolvimento e tecnologia em geral, postagens relacionadas às tecnologias que venho aprendendo, bem como alguns projetos em que venho trabalhando.
 
 * Postagens
 
@@ -20,14 +20,10 @@ Serão compartilhadas semanalmente, dicas de desenvolvimento e tecnologia em ger
 
 ## Habilidades
 * Desenvolvimento
-* Integrações de bancos de dados
-* Web
-* Business Intelligence
 * Servidores
-* Segurança
-* Auditoria de dados
 * Boas práticas
-* Trabalho em equipe
+* Frameworks
+
 
 ## Este site
 Este site foi construido utilizando o framework **Jekyll**, com o tema Moon e hospedado no **GitHub Pages**, em breve será feito um post explicando como hospedagem paginas **HTML** estáticas no github pages e posteriormente uma introdução ao **Jekyll**.
