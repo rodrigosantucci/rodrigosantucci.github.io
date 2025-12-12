@@ -15,7 +15,11 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
-                <div class="post-title {% if page.feature %} feature {% endif %}">
+                {% if page.feature %}
+                {% capture feature_url %}{{ page.feature }}{% endcapture %}
+                {% unless feature_url contains 'http://' or feature_url contains 'https://' %}{% capture feature_url %}{{ site.url }}/{{ feature_url }}{% endcapture %}{% endunless %}
+                {% endif %}
+                <div class="post-title {% if page.feature %} feature {% endif %}" {% if page.feature %}style="background-image:url({{ feature_url }})"{% endif %}>
                     <h1>{{ page.title }}</h1>
                     <h4>{{ page.date | date_to_string }}</h4>
                     {% if site.reading_time %}

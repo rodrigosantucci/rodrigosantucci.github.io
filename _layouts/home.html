@@ -15,8 +15,12 @@ layout: compress
     <header class="header flex" role="banner">
         <div class="container animated fadeInUp">
             <div class="row">
+                    {% capture logo_path %}{{ site.logo }}{% endcapture %}
+                    {% unless logo_path contains 'http://' or logo_path contains 'https://' or logo_path contains 'data:image' %}
+                    {% capture logo_path %}{{ site.url }}/{{ site.logo }}{% endcapture %}
+                    {% endunless %}
                     <a href="{{ site.url }}">
-                        <img style="border-radius:30%;" src="{{ site.logo }}" class="img-circle zoombtn animated fadeInUp">
+                        <img style="border-radius:30%;" src="{{ logo_path }}" class="img-circle zoombtn animated fadeInUp">
                     </a>
                     <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}">

@@ -5,8 +5,12 @@
 			<li>
 				<a href="#">Sobre</a>
 				<ul class="dl-submenu">
+					{% capture logo_path %}{{ site.logo }}{% endcapture %}
+					{% unless logo_path contains 'http://' or logo_path contains 'https://' or logo_path contains 'data:image' %}
+					{% capture logo_path %}{{ site.url }}/{{ site.logo }}{% endcapture %}
+					{% endunless %}
 					<li>
-						<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} photo" class="author-photo">
+						<img src="{{ logo_path }}" alt="{{ site.title }} photo" class="author-photo">
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
