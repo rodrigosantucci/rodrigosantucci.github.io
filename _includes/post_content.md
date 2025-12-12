@@ -1,21 +1,31 @@
 {% assign topic = include.topic | default: page.title %}
 {% assign t = topic | downcase %}
 
-## Introdução
+## Introdução: O Gancho Pedagógico
 
-Este guia apresenta **{{ topic }}** com foco prático e propósito educacional: entender o porquê, quando aplicar e como implementar com segurança e qualidade.
+**O Problema.** Engajar aprendizes em ambientes híbridos e remotos é desafiador.
 
-## Conceitos-Chave
+**A Promessa.** Com **{{ topic }}**, você transforma teoria em prática interativa, com uso simples e resultado mensurável.
 
-- Objetivo e contexto: problemas que {{ topic }} resolve e limitações.
-- Critérios de adoção: sinais de prontidão, maturidade e riscos.
-- Boas práticas: padrões que reduzem complexidade e aumentam confiabilidade.
+## Showcase: O que é e por que usar
 
-## Instalação/Setup
+- Descrição técnica breve do **{{ topic }}** e benefícios principais.
+- Público-alvo: educadores e turmas em aulas síncronas/assíncronas.
+- Custo: gratuito/freemium/pago conforme oferta da plataforma.
+- Plataforma: web e dispositivos móveis (quando aplicável).
 
-- Prepare ambiente e ferramentas (gerenciador de versões, pacote, IDE).
-- Configure variáveis de ambiente e arquivos de projeto.
-- Defina scripts de automação (lint, test, build).
+## Guia Prático: Passo a passo
+
+1. **Acesso.** Entre no site oficial e faça login institucional.
+2. **Criação.** Clique em **Novo Projeto** e selecione um template.
+3. **Configuração.** Ajuste tempo de resposta e insira multimídia.
+4. **Compartilhamento.** Gere QR Code ou link para a turma.
+
+## Aplicação em Sala de Aula
+
+- Ciências: simular reações químicas com respostas cronometradas.
+- História: criar linha do tempo interativa sobre a Revolução Industrial.
+- Avaliação: revisão pré-prova com quizzes gamificados.
 
 ## Exemplo Prático
 
@@ -66,7 +76,7 @@ app.get('/info', (_, res) => res.json({ topic: '{{ topic }}', message: 'Exemplo 
 app.listen(3000)
 ```
 
-{% elsif t contains 'kubernet' %}
+{% elsif t contains 'kubernet' or t contains 'kubernetes' %}
 ### Implantação no Kubernetes
 
 ```yaml
@@ -174,27 +184,133 @@ const wasm = await WebAssembly.instantiateStreaming(fetch('/module.wasm'))
 if (flags.isEnabled('newCheckout')) { renderNew() } else { renderOld() }
 ```
 
-{% else %}
-### Exemplo genérico
+{% elsif t contains 'markdown' %}
+### Sintaxe Markdown essencial
+
+```md
+# Título
+
+Texto com **negrito** e *itálico*.
+
+```js
+console.log('exemplo')
+```
+
+1. Lista numerada
+- Lista com marcadores
+```
+
+{% elsif t contains 'jekyll' %}
+### Post e build com Jekyll
+
+```yaml
+---
+layout: post
+title: "Meu Post"
+date: 2025-01-01
+---
+```
 
 ```bash
-echo "{{ topic }}"
+bundle exec jekyll build
 ```
+
+{% elsif t contains 'images' or t contains 'imagem' %}
+### Imagens em Markdown
+
+```md
+![Descrição](/assets/img/exemplo.png)
+
+<figure>
+  <img src="/assets/img/exemplo.png" alt="Exemplo" />
+  <figcaption>Legenda</figcaption>
+</figure>
+```
+
+{% elsif t contains 'video' or t contains 'vídeo' %}
+### Vídeos responsivos
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ID" frameborder="0"> </iframe>
+```
+
+{% elsif t contains 'docker' %}
+### Desenvolvimento com Docker Compose
+
+```yaml
+services:
+  api:
+    image: node:20-alpine
+    working_dir: /app
+    volumes: [".:/app"]
+    command: node app.js
+```
+
+{% elsif t contains 'git' %}
+### Fluxo Git básico
+
+```bash
+git init
+git add .
+git commit -m "primeiro commit"
+git switch -c feature/x
+```
+
+{% elsif t contains 'mongodb' %}
+### CRUD com MongoDB
+
+```js
+const { MongoClient } = require('mongodb')
+const client = new MongoClient(process.env.MONGO_URL)
+await client.db().collection('items').insertOne({ name: 'demo' })
+```
+
+{% elsif t contains 'observabilidade' or t contains 'logs' or t contains 'metrics' or t contains 'trace' %}
+### Logs, métricas e rastreamento
+
+```js
+import pino from 'pino'
+const log = pino()
+log.info({ route: '/health' }, 'ok')
+```
+
+{% elsif t contains 'serverless' or t contains 'aws' %}
+### Função Serverless
+
+```yaml
+service: api
+provider: { name: aws, runtime: nodejs20.x }
+functions:
+  hello:
+    handler: handler.hello
+    events:
+      - httpApi: { path: /hello, method: get }
+```
+
+{% else %}
+### Guia prático genérico
+
+1. Defina objetivo e métricas de {{ topic }}.
+2. Estruture projeto e automação mínima.
+3. Implemente um protótipo funcional e teste.
+4. Documente decisões e próximos passos.
 {% endif %}
 
-## Passo a Passo
+## Prós e Contras
 
-1. Defina objetivo e escopo de {{ topic }}.
-2. Modele dados e fluxos principais.
-3. Implemente o mínimo viável com testes.
-4. Avalie desempenho e segurança.
-5. Documente decisões e padrões.
+| Vantagens | Pontos de Atenção |
+|---|---|
+| Interface intuitiva | Requer conexão estável |
+| Integração com Classroom | Versão gratuita limitada |
+| Modelos prontos | Recursos avançados pagos |
 
-## Checklist de Implementação
+## Dicas de Ouro
 
-- Defina objetivo e métricas de sucesso de {{ topic }}.
-- Estruture projeto (módulos, testes, observabilidade).
-- Automação mínima (lint, testes, pipeline).
+- Importar slides do PowerPoint pode acelerar a formatação.
+
+## Conclusão e CTA
+
+Você já utilizou **{{ topic }}** em aula? Comente como aplicaria na sua disciplina.
 
 ## Imagens
 
@@ -207,16 +323,22 @@ echo "{{ topic }}"
   {{ site.url }}/assets/img/logopost.jpg
 {% endif %}
 {% endcapture %}
+{% if local_image contains 'logopost.jpg' %}
+  {% if page.tags %}
+  {% assign tag_query = page.tags | join: ',' | downcase %}
+  {% else %}
+  {% assign tag_query = topic | downcase %}
+  {% endif %}
+  {% capture local_image %}https://source.unsplash.com/1600x900/?{{ tag_query }}&sig={{ page.date | date: '%s' }}{% endcapture %}
+{% endif %}
 
 ![{{ topic }}]({{ local_image | strip }})
 
-![Diagrama/Fluxo]({{ site.url }}/assets/img/slide1.jpg)
+## Variações por Tipo de Conteúdo
 
-## Próximos Passos
-
-- Crie um demo funcional de {{ topic }}.
-- Documente decisões e trade-offs.
-- Monitore e iterar com métricas.
+- Apresentações/Slides: priorize imagens de alta qualidade e tópicos curtos.
+- Showcases: foque em resultados (ex.: +30% engajamento).
+- Curadoria: liste as melhores ferramentas por objetivo pedagógico.
 
 ## Referências e Bibliografia
 

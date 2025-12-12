@@ -23,7 +23,7 @@
                 {% else %}
                 {% assign tag_query = page.title | downcase %}
                 {% endif %}
-                {% capture feature_url %}https://source.unsplash.com/1600x900/?{{ tag_query }}&sig={{ page.date | date: '%s' }}{% endcapture %}
+                {% capture feature_url %}https://source.unsplash.com/1600x900/?{{ tag_query }}&sig={{ page.url | slugify }}{% endcapture %}
                 {% endif %}
                 {% endif %}
                 <div class="post-title {% if page.feature %} feature {% endif %}" {% if page.feature %}style="background-image:url({{ feature_url }})"{% endif %}>
@@ -44,10 +44,8 @@
                     </a>
                 </div>
                 {{ content }}
-                {% if page.auto_content %}
                 {% capture auto_md %}{% include post_content.md topic=page.title %}{% endcapture %}
                 {{ auto_md | markdownify }}
-                {% endif %}
                 <div class="entry-meta">
                 {% include meta.html %}
                 </div>
