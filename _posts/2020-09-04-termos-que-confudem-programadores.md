@@ -3,7 +3,7 @@ layout: post
 title:  "Termos que podem confundir programadores iniciantes."
 date:   2020-09-04
 excerpt: "Explicação breve de alguns termos que confundem alguns desenvolvedores que estão iniciando suas carreiras"
-tag:
+tags:
 - parâmetro 
 - argumento
 - função

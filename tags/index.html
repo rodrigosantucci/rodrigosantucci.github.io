@@ -9,14 +9,14 @@ comments: false
 {% assign tags_list = site_tags | split:',' | sort %}
 
 <ul class="entry-meta inline-list">
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+  {% for t in tags_list %}
+    {% capture this_word %}{{ t | strip_newlines }}{% endcapture %}
   	<li><a href="#{{ this_word }}" class="tag"><span class="term">{{ this_word }}</span> <span class="count">{{ site.tags[this_word].size }}</span></a></li>
-  {% endunless %}{% endfor %}
+  {% endfor %}
 </ul>
 
-{% for item in (0..site.tags.size) %}{% unless forloop.last %}
-  {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+{% for t in tags_list %}
+  {% capture this_word %}{{ t | strip_newlines }}{% endcapture %}
 	<article>
 	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
 		<ul>
@@ -25,4 +25,4 @@ comments: false
     {% endif %}{% endfor %}
 		</ul>
 	</article><!-- /.hentry -->
-{% endunless %}{% endfor %}
+{% endfor %}

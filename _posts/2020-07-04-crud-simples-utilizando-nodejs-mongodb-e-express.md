@@ -3,7 +3,7 @@ layout: post
 title:  "CRUD simples utilizando Node.js, MongoDB e Express"
 date:   2020-07-18
 excerpt: "Criaremos hoje um Create,Read,Update e Delete básico utilizando o NodeJS e Express no backend e como banco de dados, utilizaremos o MongoDB."
-tag:
+tags:
 - node 
 - nodejs
 - mongodb
@@ -12,6 +12,7 @@ tag:
 - express
 - crud
 comments: true
+auto_content: true
 feature: "/../assets/img/featurecrud.jpg"   
 project: false 
 ---

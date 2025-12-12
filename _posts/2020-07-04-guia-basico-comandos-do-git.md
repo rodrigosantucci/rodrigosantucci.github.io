@@ -3,7 +3,7 @@ layout: post
 title:  "Guia de comandos básicos do Git para iniciantes"
 date:   2020-07-04
 excerpt: "Guia prático com os comandos mais utilizados do git e suas funcionalidades."
-tag:
+tags:
 - git 
 - guia
 - cli
@@ -11,6 +11,7 @@ tag:
 - básico
 - iniciante
 comments: true
+auto_content: true
 feature: "/../assets/img/featuregitbasico.png"  
 
 ---

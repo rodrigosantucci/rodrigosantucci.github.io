@@ -3,7 +3,7 @@ layout: post
 title:  "Princípios S.O.L.I.D"
 date:   2020-09-08
 excerpt: "Explicação conceitual dos princípios SOLID criado pelo famoso Engenheiro de Software Robert C. Martin"
-tag:
+tags:
 - solid
 - poo
 - boas práticas

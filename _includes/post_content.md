@@ -198,9 +198,19 @@ echo "{{ topic }}"
 
 ## Imagens
 
-![{{ topic }}](https://source.unsplash.com/1200x675/?{{ t | replace: ' ', ',' }}&sig={{ page.date | date: '%s' }})
+{% capture local_image %}
+{% if page.feature %}
+  {% assign f = page.feature %}
+  {% unless f contains 'http://' or f contains 'https://' or f contains 'data:image' %}{% capture f %}{{ site.url }}/{{ f }}{% endcapture %}{% endunless %}
+  {{ f }}
+{% else %}
+  {{ site.url }}/assets/img/logopost.jpg
+{% endif %}
+{% endcapture %}
 
-![Diagrama/Fluxo](https://source.unsplash.com/1200x675/?diagram,architecture,system&sig={{ page.date | date: '%s' }}1)
+![{{ topic }}]({{ local_image | strip }})
+
+![Diagrama/Fluxo]({{ site.url }}/assets/img/slide1.jpg)
 
 ## Próximos Passos
 
@@ -274,6 +284,78 @@ echo "{{ topic }}"
 - Feature Toggles (M. Fowler): https://martinfowler.com/articles/feature-toggles.html
 - Unleash Docs: https://docs.getunleash.io
 - LaunchDarkly Concepts: https://docs.launchdarkly.com/concepts
+{% elsif t contains 'docker' %}
+- Docker Docs: https://docs.docker.com/
+- Compose: https://docs.docker.com/compose/
+- Best Practices: https://docs.docker.com/develop/
+{% elsif t contains 'github actions' or t contains 'actions' %}
+- GitHub Actions Docs: https://docs.github.com/actions
+- Workflows: https://docs.github.com/actions/using-workflows
+- Runners: https://docs.github.com/actions/using-github-hosted-runners/about-github-hosted-runners
+{% elsif t contains 'owasp' %}
+- OWASP Top 10: https://owasp.org/www-project-top-ten/
+- Cheat Sheets: https://cheatsheetseries.owasp.org/
+- ASVS: https://owasp.org/www-project-application-security-verification-standard/
+{% elsif t contains 'jest' or t contains 'testes' %}
+- Jest Docs: https://jestjs.io/docs
+- Testing Pyramid: https://martinfowler.com/bliki/TestPyramid.html
+- Coverage: https://jestjs.io/docs/coverage
+{% elsif t contains 'ddd' %}
+- Domain-Driven Design (Evans): https://www.domainlanguage.com/ddd/
+- Vaughn Vernon: https://vaughnvernon.co/
+- Microservices/DDD: https://martinfowler.com/articles/microservices.html
+{% elsif t contains 'spring' %}
+- Spring Boot Docs: https://docs.spring.io/spring-boot/docs/current/reference/html/
+- Spring Web: https://docs.spring.io/spring-framework/docs/current/reference/html/web.html
+- Spring Data: https://spring.io/projects/spring-data
+{% elsif t contains 'tailwind' %}
+- Tailwind Docs: https://tailwindcss.com/docs
+- Tailwind UI Patterns: https://tailwindui.com/
+- Acessibilidade: https://web.dev/accessible/
+{% elsif t contains 'vite' %}
+- Vite Docs: https://vitejs.dev/guide/
+- ESBuild/Rollup: https://rollupjs.org/
+- HMR: https://vitejs.dev/guide/features.html#hot-module-replacement
+{% elsif t contains 'codespaces' %}
+- GitHub Codespaces Docs: https://docs.github.com/codespaces
+- Dev Containers: https://containers.dev/
+- Remote Development: https://code.visualstudio.com/docs/remote/remote-overview
+{% elsif t contains 'core web vitals' or t contains 'web vitals' %}
+- Web Vitals: https://web.dev/vitals/
+- Lighthouse: https://developer.chrome.com/docs/lighthouse/overview/
+- Performance Patterns: https://web.dev/fast/
+{% elsif t contains 'vitest' %}
+- Vitest Docs: https://vitest.dev/guide/
+- Vite Integration: https://vitest.dev/guide/#vite
+- Snapshot Testing: https://vitest.dev/guide/snapshot.html
+{% elsif t contains 'prisma' %}
+- Prisma Docs: https://www.prisma.io/docs
+- Schema: https://www.prisma.io/docs/concepts/components/prisma-schema
+- Migrate: https://www.prisma.io/docs/concepts/components/prisma-migrate
+{% elsif t contains 'nestjs' %}
+- NestJS Docs: https://docs.nestjs.com/
+- Providers/DI: https://docs.nestjs.com/fundamentals/custom-providers
+- Testing: https://docs.nestjs.com/fundamentals/testing
+{% elsif t contains 'openapi' or t contains 'swagger' %}
+- OpenAPI Spec: https://spec.openapis.org/oas/latest.html
+- Swagger Docs: https://swagger.io/docs/
+- Tools: https://openapi.tools/
+{% elsif t contains 'serverless' or t contains 'aws' %}
+- AWS Lambda Docs: https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+- API Gateway: https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
+- Serverless Framework: https://www.serverless.com/framework/docs
+{% elsif t contains 'http2' or t contains 'http3' or t contains 'quic' %}
+- HTTP/2 RFC 7540: https://datatracker.ietf.org/doc/html/rfc7540
+- QUIC RFC 9000: https://datatracker.ietf.org/doc/html/rfc9000
+- HTTP/3 RFC 9114: https://datatracker.ietf.org/doc/html/rfc9114
+{% elsif t contains 'monorepo' or t contains 'pnpm' or t contains 'turborepo' %}
+- pnpm Docs: https://pnpm.io/workspaces
+- Turborepo Docs: https://turbo.build/repo/docs
+- Monorepo Patterns: https://martinfowler.com/articles/monorepo.html
+{% elsif t contains 'cqrs' or t contains 'event sourcing' %}
+- Greg Young: https://cqrs.wordpress.com/
+- Event Sourcing Patterns: https://martinfowler.com/eaaDev/EventSourcing.html
+- Projections: https://eventstore.com/docs/
 {% else %}
 - Documentação oficial relacionada ao tema.
 - Referências técnicas e RFCs aplicáveis.
