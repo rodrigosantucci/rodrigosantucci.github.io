@@ -19,7 +19,7 @@
                 {% unless feature_url contains 'http://' or feature_url contains 'https://' %}{% capture feature_url %}{{ site.url }}/{{ feature_url }}{% endcapture %}{% endunless %}
                 {% if page.feature and feature_url contains 'logopost.jpg' %}
                 {% assign tag_query = page.tags | join: ',' | downcase %}
-                {% capture feature_url %}https://source.unsplash.com/1600x900/?{{ tag_query }}{% endcapture %}
+                {% capture feature_url %}https://source.unsplash.com/1600x900/?{{ tag_query }}&sig={{ page.date | date: '%s' }}{% endcapture %}
                 {% endif %}
                 {% endif %}
                 <div class="post-title {% if page.feature %} feature {% endif %}" {% if page.feature %}style="background-image:url({{ feature_url }})"{% endif %}>
