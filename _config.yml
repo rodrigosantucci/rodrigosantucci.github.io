@@ -7,7 +7,7 @@ bio7:               "Próximos posts: Arquitetura REST, Docker, Spring Initializ
 description:        "Guias, tutoriais, insight's e projetos."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo1.jpg'
+logo:               'assets/img/logo4.png'
 tiled_bg:           true  
 locale:             pt_BR
 url:                https://rodrigosantucci.github.io
