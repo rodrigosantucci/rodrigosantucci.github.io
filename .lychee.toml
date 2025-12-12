@@ -1,0 +1,17 @@
+exclude = [
+  "localhost",
+  "127.0.0.1",
+  "ghbtns.com",
+  "instagram.com",
+  "facebook.com",
+  "twitter.com",
+  "chrome.google.com",
+  "www.youtube.com",
+  "paypal.com",
+  "img.shields.io"
+]
+timeout = "20s"
+max_concurrency = 10
+retry = 2
+include_mailto = false
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
