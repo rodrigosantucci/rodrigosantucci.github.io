@@ -5,6 +5,8 @@ date: 2021-12-15
 excerpt: "Pilares e instrumentação em serviços web."
 tags: [observabilidade, logs, metrics]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

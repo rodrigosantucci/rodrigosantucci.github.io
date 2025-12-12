@@ -5,6 +5,8 @@ date: 2022-09-15
 excerpt: "Estratégias de cache e invalidação."
 tags: [redis, cache, performance]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

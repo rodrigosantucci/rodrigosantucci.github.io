@@ -5,6 +5,8 @@ date: 2024-12-15
 excerpt: "Definição de metas e monitoramento de serviços."
 tags: [sre, slos, confiabilidade]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

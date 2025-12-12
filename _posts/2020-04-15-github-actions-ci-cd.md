@@ -5,6 +5,8 @@ date: 2020-04-15
 excerpt: "Automatize build, testes e deploy com workflows YAML no GitHub."
 tags: [github, ci, cd]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/git-logo.png"
 ---
 

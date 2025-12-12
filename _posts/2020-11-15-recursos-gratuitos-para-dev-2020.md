@@ -5,6 +5,8 @@ date: 2020-11-15
 excerpt: "Coleção de links úteis para estudo e prática."
 tags: [links, recursos, aprendizado]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/acervo.jpg"
 ---
 

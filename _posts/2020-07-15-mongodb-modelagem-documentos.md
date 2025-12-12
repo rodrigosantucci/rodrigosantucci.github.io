@@ -5,6 +5,8 @@ date: 2020-07-15
 excerpt: "Padrões de modelagem, índices e relacionamento em coleções."
 tags: [mongodb, banco-de-dados, nosql]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

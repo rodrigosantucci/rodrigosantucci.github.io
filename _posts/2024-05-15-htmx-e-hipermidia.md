@@ -5,6 +5,8 @@ date: 2024-05-15
 excerpt: "Interações dinâmicas com HTML estendido."
 tags: [htmx, frontend, hipermidia]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

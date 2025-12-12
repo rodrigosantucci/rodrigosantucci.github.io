@@ -5,6 +5,8 @@ date: 2020-06-15
 excerpt: "Estrutura de projeto, middlewares e organização por módulos."
 tags: [nodejs, express, arquitetura]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/featurecrud.jpg"
 ---
 

@@ -5,6 +5,8 @@ date: 2022-05-15
 excerpt: "Orquestração simples de serviços locais."
 tags: [docker, compose, dev]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

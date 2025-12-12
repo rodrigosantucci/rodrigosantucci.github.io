@@ -36,6 +36,9 @@
                     </a>
                 </div>
                 {{ content }}
+                {% if page.auto_content %}
+                {% include post_content.html topic=page.title %}
+                {% endif %}
                 <div class="entry-meta">
                 {% include meta.html %}
                 </div>

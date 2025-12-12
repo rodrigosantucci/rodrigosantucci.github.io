@@ -5,6 +5,8 @@ date: 2020-01-15
 excerpt: "Guia de trilhas e competências para desenvolvimento web em 2020."
 tags: [roadmap, desenvolvimento, carreira]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

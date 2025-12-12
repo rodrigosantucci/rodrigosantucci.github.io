@@ -5,6 +5,8 @@ date: 2024-01-15
 excerpt: "Recursos e padrões recomendados para o ecossistema."
 tags: [react, novidades, frontend]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

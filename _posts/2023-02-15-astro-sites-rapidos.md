@@ -5,6 +5,8 @@ date: 2023-02-15
 excerpt: "Islands architecture e entrega otimizada."
 tags: [astro, frontend, performance]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

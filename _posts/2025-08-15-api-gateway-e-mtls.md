@@ -5,6 +5,8 @@ date: 2025-08-15
 excerpt: "Segurança de tráfego e controle de acesso."
 tags: [api-gateway, mtls, seguranca]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

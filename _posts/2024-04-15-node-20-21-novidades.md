@@ -5,6 +5,8 @@ date: 2024-04-15
 excerpt: "Recursos da plataforma e implicações práticas."
 tags: [node, javascript, plataforma]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

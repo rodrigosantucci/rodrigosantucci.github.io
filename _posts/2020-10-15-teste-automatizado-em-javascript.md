@@ -5,6 +5,8 @@ date: 2020-10-15
 excerpt: "Cobertura, pirâmide de testes e integração com CI."
 tags: [testes, jest, qualidade]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 

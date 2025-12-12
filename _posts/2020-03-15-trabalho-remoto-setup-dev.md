@@ -5,6 +5,8 @@ date: 2020-03-15
 excerpt: "Ferramentas e práticas para produtividade e colaboração em times distribuídos."
 tags: [remoto, produtividade, ferramentas]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/acervo.jpg"
 ---
 

@@ -5,6 +5,8 @@ date: 2024-11-15
 excerpt: "Fluxos, escopos e proteção de APIs."
 tags: [oauth2, oidc, seguranca]
 comments: true
+min_read_time: 20
+auto_content: true
 feature: "assets/img/logopost.jpg"
 ---
 
