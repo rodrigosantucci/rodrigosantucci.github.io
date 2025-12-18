@@ -40,15 +40,19 @@ Profissional apaixonado por tecnologia com foco em construção de soluções es
 
 ## 🎓 Formação Acadêmica
 
-*   **Ciência da Computação / Engenharia de Software**
+*   **Bacharel em Ciência da Computação**
     *   Foco em Algoritmos, Estruturas de Dados e Arquitetura de Computadores.
+*   **Pós Graduação em Engenharia de Software**
+    *   Foco em Arquitetura de Software, Design Patterns e Metodologias Ágeis.
+*   **Pós Graduação em Desenvolvimento Mobile**
+    *   Foco em Desenvolvimento de Aplicações Mobile, Arquitetura de Software e Metodologias Ágeis.
 
 ---
 
 ## 🚀 Competências e Habilidades
 
 ### **Linguagens de Programação**
-*   **Java**: Spring Boot, Jakarta EE, Hibernate.
+*   **Java**: Spring Boot, Quarkus, Jakarta EE, Hibernate.
 *   **JavaScript/TypeScript**: Node.js, React, Angular, Vue.
 *   **Python**: Automação, Scripting, Data Analysis.
 
@@ -65,15 +69,9 @@ Profissional apaixonado por tecnologia com foco em construção de soluções es
 
 ---
 
-## 🏆 Certificações
-
-*   *AWS Certified Solutions Architect*
-*   *Oracle Certified Professional: Java SE Programmer*
-
----
 
 <div style="text-align: center; margin-top: 50px;">
     <h3>Vamos construir algo incrível juntos?</h3>
     <p>Estou sempre aberto a novas oportunidades e colaborações.</p>
-    <a href="mailto:contato@rodrigosantucci.com" class="btn btn-primary">Entre em Contato</a>
+    <a href="mailto:contato@rodrigo_santucci@hotmail.com" class="btn btn-primary">Entre em Contato</a>
 </div>
