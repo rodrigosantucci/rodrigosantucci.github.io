@@ -15,13 +15,13 @@ body {
 	@extend %extend1;
 	font-family: $font1;
 	@include font-rem($doc-font-size);
-	color: $color_tuatara;
-	background-color: $bodycolor;
+	color: var(--text-color);
+	background-color: var(--bg-color);
 	background-position: center center;
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
-		background: $white;
+		background: var(--container-bg);
 	}
 }
 * {
@@ -39,7 +39,7 @@ body {
 	width: 100%;
 	min-height: 300px;
 	text-align: left;
-	color: $white;
+	color: var(--welcome-text-color);
 	@media #{$small} {
 		display: block !important;
 	}
@@ -75,11 +75,11 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: $white;
-	color: $color_shark;
+	background-color: var(--container-bg);
+	color: var(--heading-color);
 	z-index: 1;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	box-shadow: 0 0 10px 0 var(--shadow-color);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 100%;
@@ -104,11 +104,11 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: 4rem auto;
-	background: $white;
-	color: $color_tuatara;
+	background: var(--container-bg);
+	color: var(--text-color);
 	padding: 2em;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	box-shadow: 0 0 10px 0 var(--shadow-color);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
@@ -120,11 +120,11 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: -3rem auto 4rem;
-	background: $white;
-	color: $color_tuatara;
+	background: var(--container-bg);
+	color: var(--text-color);
 	padding: 2em;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	box-shadow: 0 0 10px 0 var(--shadow-color);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
@@ -136,10 +136,10 @@ body {
 .entry-meta {
 	@include font-rem(12);
 	text-transform: uppercase;
-	color: lighten($color_tuatara,60);
+	color: var(--meta-color);
 	padding-left: 0;
 	a {
-		color: lighten($color_tuatara,60);
+		color: var(--meta-color);
 	}
 	li {
 	    list-style-type: none;
@@ -151,8 +151,8 @@ body {
         border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
         @include rounded(3px);
         text-decoration: none;
-        background-color: $white;
-        color: $color_tuatara;
+        background-color: var(--container-bg);
+        color: var(--text-color);
         @include transition(.75s);
         margin: 2px 5px;
 		span {
@@ -160,12 +160,12 @@ body {
 			padding: 2px 6px;
 		}
 		.count {
-			background-color: darken($white,15);
+			background-color: var(--bg-color);
 			@include border-radius(3px,3px,0,0);
 		}
 		&:hover {
-			background-color: darken($white,15);
-			box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
+			background-color: var(--bg-color);
+			box-shadow: 0 0 1px 0 var(--shadow-color);
 		}
 	}
 }
@@ -218,5 +218,67 @@ header .entry-meta {
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
+    }
+}
+
+// Welcome Section
+.welcome-section {
+    text-align: center;
+    color: var(--welcome-text-color);
+    padding: 40px 20px;
+    
+    h2 {
+        font-weight: 300;
+        margin-bottom: 15px;
+        color: var(--welcome-text-color);
+    }
+    
+    h3 {
+        font-size: 1.3em;
+        font-weight: 500;
+        opacity: 0.95;
+        margin-bottom: 25px;
+        color: var(--welcome-text-color);
+    }
+    
+    p {
+        font-size: 1.1em;
+        line-height: 1.6;
+        max-width: 700px;
+        margin: 0 auto 30px auto;
+    }
+}
+
+.welcome-divider {
+    border-top: 1px solid var(--welcome-border-color);
+    width: 100px;
+    margin: 0 auto 40px auto;
+}
+
+// Theme Toggle Button
+.theme-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: transparent;
+    border: 2px solid var(--welcome-text-color);
+    color: var(--welcome-text-color);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    z-index: 1001;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    
+    &:hover {
+        background: var(--welcome-text-color);
+        color: var(--bg-color);
+    }
+    
+    i {
+        font-size: 1.2rem;
     }
 }

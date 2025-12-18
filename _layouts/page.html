@@ -15,7 +15,7 @@
     {% include nav.html %}
     <!-- Header -->
     <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
+        <div class="wrapper animated fadeIn {{ page.wrapper_class }}">
             <div class="content">
                 {% if page.feature %}
                 {% capture feature_url %}{{ page.feature }}{% endcapture %}

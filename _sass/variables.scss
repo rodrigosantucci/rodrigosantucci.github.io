@@ -15,10 +15,64 @@ $color_stack         : #8c8b8b;
 $color_alabaster     : #f9f9f9;
 $color_tundora       : #444;
 $color_fuscous_gray  : #555;
-$color_alabaster     : #fcfcfc;
 $color_celeste       : #ccc;
 $color_pink_swan     : #bbb;
 $comp-color 	     : complement(#222); 
+
+// CSS Variables for Theming
+:root {
+    --bg-color: #D24D57;
+    --container-bg: #ffffff;
+    --text-color: #383838;
+    --heading-color: #282828;
+    --subheading-color: #555555;
+    --link-color: #282828;
+    --link-hover-color: #D24D57;
+    --border-color: #f0f0f0;
+    --meta-color: #8c8b8b;
+    --shadow-color: rgba(40, 40, 40, 0.3);
+    --welcome-text-color: #ffffff;
+    --welcome-border-color: rgba(255, 255, 255, 0.2);
+    --btn-text-color: #ffffff;
+    --btn-border-color: #ffffff;
+    --btn-hover-bg: #ffffff;
+    --btn-hover-text: #333333;
+    --code-bg: #e8e8e8;
+    --code-border: #d0d1d5;
+    --notice-bg: #e8e8e8;
+    --notice-border: #bbb;
+    --menu-btn-bg: #dddddd;
+    --menu-btn-hover: #aaaaaa;
+    --menu-text: #ffffff;
+    --menu-text-muted: rgba(255, 255, 255, 0.8);
+}
+
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --container-bg: #2d2d2d;
+    --text-color: #e0e0e0;
+    --heading-color: #ffffff;
+    --subheading-color: #cccccc;
+    --link-color: #e0e0e0;
+    --link-hover-color: #FF4136;
+    --border-color: #404040;
+    --meta-color: #aaa;
+    --shadow-color: rgba(0, 0, 0, 0.5);
+    --welcome-text-color: #e0e0e0;
+    --welcome-border-color: rgba(255, 255, 255, 0.1);
+    --btn-text-color: #e0e0e0;
+    --btn-border-color: #e0e0e0;
+    --btn-hover-bg: #e0e0e0;
+    --btn-hover-text: #1a1a1a;
+    --code-bg: #383838;
+    --code-border: #444444;
+    --notice-bg: #383838;
+    --notice-border: #555555;
+    --menu-btn-bg: #444444;
+    --menu-btn-hover: #555555;
+    --menu-text: #e0e0e0;
+    --menu-text-muted: rgba(224, 224, 224, 0.8);
+}
 
 //button colors
 $success			 : #5cb85c;
