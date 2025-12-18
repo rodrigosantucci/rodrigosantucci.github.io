@@ -6,44 +6,74 @@ date: 2025-12-18
 comments: true
 ---
 
-## Quem Sou Eu
+<div class="profile-header" style="text-align: center; margin-bottom: 40px;">
+    <img src="{{ site.url }}/assets/img/logo.png" alt="Rodrigo Santucci" style="border-radius: 50%; width: 180px; margin-bottom: 20px;">
+    <h1>Rodrigo Santucci</h1>
+    <p class="subtitle" style="font-size: 1.2em; color: #666;">Engenheiro de Software & Arquiteto de Soluções</p>
+    <div class="social-links" style="margin-top: 20px;">
+        <a href="https://github.com/rodrigosantucci" class="btn"><i class="fa fa-github"></i> GitHub</a>
+        <a href="https://www.linkedin.com/in/rodrigosantucci96" class="btn"><i class="fa fa-linkedin"></i> LinkedIn</a>
+    </div>
+</div>
 
-Sou **Rodrigo Santucci**, um **Engenheiro de Software Sênior** e **Arquiteto de Sistemas** apaixonado por construir soluções robustas, escaláveis e de alta qualidade. Com uma trajetória sólida no desenvolvimento de software, dedico-me a resolver problemas complexos e a transformar requisitos de negócio em arquiteturas tecnológicas eficientes.
+## 📌 Resumo Profissional
 
-Minha abordagem combina rigor técnico com uma visão pragmática, sempre buscando o equilíbrio entre inovação e estabilidade. Acredito que o código não é apenas funcionalidade, mas uma ferramenta estratégica para impulsionar negócios.
-
-## Minha Missão
-
-Meu objetivo com este blog é democratizar o conhecimento de engenharia de software de alto nível. Aqui, compartilho:
-
-*   **Arquitetura de Sistemas**: Padrões, microsserviços, serverless e design de sistemas distribuídos.
-*   **Boas Práticas**: Clean Code, SOLID, TDD, e metodologias que garantem manutenibilidade.
-*   **Tecnologias Modernas**: Deep dives em Java, Spring, Cloud Computing (AWS/Azure), e contêineres.
-*   **Mentoria**: Insights para desenvolvedores que buscam alcançar níveis sênior e de liderança técnica.
-
-## Expertise Técnica
-
-### Linguagens & Frameworks
-*   **Java (Core & Enterprise)**: Domínio profundo da JVM, desde versões legadas até as mais modernas (Java 17/21).
-*   **Spring Ecosystem**: Spring Boot, Spring Cloud, Spring Data, Spring Security.
-*   **Outras Linguagens**: Proficiência em TypeScript, Python, Go e Rust para cenários específicos.
-
-### Arquitetura & Cloud
-*   **Cloud Providers**: Experiência extensiva com AWS e Azure.
-*   **Infraestrutura**: Kubernetes, Docker, Terraform (IaC).
-*   **Padrões**: Microsserviços, Event-Driven Architecture (EDA), CQRS, Hexagonal Architecture.
-
-### Qualidade & Processos
-*   **Testes**: TDD, BDD, testes de integração e performance.
-*   **DevOps**: CI/CD pipelines (GitHub Actions, Jenkins, Azure DevOps).
-*   **Observabilidade**: Monitoramento com Prometheus, Grafana, ELK Stack.
-
-## Vamos Conectar?
-
-Estou sempre aberto a discutir novos desafios, projetos open-source ou oportunidades de consultoria.
-
-*   [LinkedIn](https://www.linkedin.com/in/rodrigosantucci96)
-*   [GitHub](https://github.com/rodrigosantucci)
+Profissional apaixonado por tecnologia com foco em construção de soluções escaláveis e eficientes. Minha carreira é pautada pela resolução de problemas complexos e pelo compartilhamento de conhecimento. Atuo desenvolvendo softwares inovadores, escrevendo tutoriais técnicos e buscando constantemente novas tecnologias para agregar valor aos projetos em que participo.
 
 ---
-<center><i>"A simplicidade é o grau máximo de sofisticação." - Leonardo da Vinci</i></center>
+
+## 💼 Experiência Profissional
+
+### **Engenheiro de Software Sênior**
+*Atuação em Projetos de Alta Complexidade*
+*   Desenvolvimento e arquitetura de sistemas distribuídos.
+*   Liderança técnica e mentoria de desenvolvedores júnior/pleno.
+*   Implementação de práticas de DevOps e CI/CD.
+
+### **Desenvolvedor Full Stack**
+*Projetos Web e Mobile*
+*   Criação de aplicações web responsivas e performáticas.
+*   Integração de APIs e microsserviços.
+*   Otimização de performance e UX.
+
+---
+
+## 🎓 Formação Acadêmica
+
+*   **Ciência da Computação / Engenharia de Software**
+    *   Foco em Algoritmos, Estruturas de Dados e Arquitetura de Computadores.
+
+---
+
+## 🚀 Competências e Habilidades
+
+### **Linguagens de Programação**
+*   **Java**: Spring Boot, Jakarta EE, Hibernate.
+*   **JavaScript/TypeScript**: Node.js, React, Angular, Vue.
+*   **Python**: Automação, Scripting, Data Analysis.
+
+### **Infraestrutura & Cloud**
+*   **AWS & Azure**: EC2, Lambda, S3, Azure Functions.
+*   **Containerização**: Docker, Kubernetes.
+*   **IaC**: Terraform, Ansible.
+
+### **Metodologias & Práticas**
+*   Agile (Scrum/Kanban)
+*   Clean Code & SOLID
+*   Test Driven Development (TDD)
+*   System Design
+
+---
+
+## 🏆 Certificações
+
+*   *AWS Certified Solutions Architect*
+*   *Oracle Certified Professional: Java SE Programmer*
+
+---
+
+<div style="text-align: center; margin-top: 50px;">
+    <h3>Vamos construir algo incrível juntos?</h3>
+    <p>Estou sempre aberto a novas oportunidades e colaborações.</p>
+    <a href="mailto:contato@rodrigosantucci.com" class="btn btn-primary">Entre em Contato</a>
+</div>

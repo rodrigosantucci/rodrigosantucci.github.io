@@ -44,8 +44,6 @@
                     </a>
                 </div>
                 {{ content }}
-                {% capture auto_md %}{% include post_content.md topic=page.title %}{% endcapture %}
-                {{ auto_md | markdownify }}
                 <div class="entry-meta">
                 {% include meta.html %}
                 </div>
