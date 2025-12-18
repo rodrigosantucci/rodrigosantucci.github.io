@@ -40,6 +40,11 @@ body {
 	min-height: 300px;
 	text-align: left;
 	color: var(--welcome-text-color);
+
+    h1 {
+        color: var(--welcome-text-color);
+    }
+
 	@media #{$small} {
 		display: block !important;
 	}
