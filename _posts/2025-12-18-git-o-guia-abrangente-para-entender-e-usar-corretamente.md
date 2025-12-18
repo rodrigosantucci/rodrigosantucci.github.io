@@ -10,9 +10,6 @@ description_en: "In this post, we dive deep into understanding GIT, exploring it
 feature: https://image.pollinations.ai/prompt/git%20logo?width=1280&height=720&nologo=true
 ---
 
-<div class="post-content">
-<div class="lang-pt">
-
 # GIT: O guia abrangente para entender e usar corretamente
 
 ![Git Logo](https://image.pollinations.ai/prompt/git%20logo?width=1024&height=576&nologo=true)
@@ -195,9 +192,7 @@ No futuro, esperamos que o Git continue a ser uma parte fundamental do toolkit d
 
 Portanto, se você é um desenvolvedor de software e ainda não está familiarizado com o Git, agora é a hora de aprender. Este guia deve lhe dar um bom ponto de partida, mas há muito mais a aprender. Então, comece a usar o Git hoje e veja como ele pode melhorar seu fluxo de trabalho de desenvolvimento.
 
-</div>
-
-<div class="lang-en">
+<!-- split -->
 
 # GIT: The Comprehensive Guide to Understanding and Using It Correctly
 
@@ -380,6 +375,3 @@ Git is a powerful and flexible version control tool that is essential for modern
 In the future, we expect Git to continue being a fundamental part of the software development toolkit. As more and more systems move to the cloud, Git will likely play an increasingly larger role in configuration management and infrastructure as code. Additionally, as software development becomes increasingly collaborative and distributed, Git's distributed version control capabilities will become increasingly important.
 
 Therefore, if you are a software developer and are not yet familiar with Git, now is the time to learn. This guide should give you a good starting point, but there is much more to learn. So, start using Git today and see how it can improve your development workflow.
-
-</div>
-</div>

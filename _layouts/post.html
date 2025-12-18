@@ -44,7 +44,13 @@
                         <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
+                {% assign content_parts = content | split: "<!-- split -->" %}
+                {% if content_parts.size > 1 %}
+                <div class="lang-pt">{{ content_parts[0] }}</div>
+                <div class="lang-en">{{ content_parts[1] }}</div>
+                {% else %}
                 {{ content }}
+                {% endif %}
                 <div class="entry-meta">
                 {% include meta.html %}
                 </div>

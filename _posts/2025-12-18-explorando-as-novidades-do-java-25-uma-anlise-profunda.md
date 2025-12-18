@@ -10,9 +10,6 @@ description_en: "Discover the latest innovations and improvements introduced in 
 feature: https://image.pollinations.ai/prompt/Java%2025%20features?width=1280&height=720&nologo=true
 ---
 
-<div class="post-content">
-<div class="lang-pt">
-
 # Explorando as Novidades do Java 25: Uma Análise Profunda
 
 ![Java 25 Logo](https://image.pollinations.ai/prompt/Java%2025%20logo?width=1024&height=576&nologo=true)
@@ -103,9 +100,7 @@ O Java 25 traz uma série de melhorias e novidades significativas que tornam a l
 
 No futuro, podemos esperar ainda mais inovações e melhorias no Java. Como sempre, a comunidade Java continuará a impulsionar a linguagem para frente, tornando-a ainda mais útil para desenvolvedores em todo o mundo. Portanto, seja você um desenvolvedor Java experiente ou um novato, agora é um ótimo momento para se aprofundar no Java 25 e começar a explorar todas as possibilidades que ele oferece.
 
-</div>
-
-<div class="lang-en">
+<!-- split -->
 
 # Exploring Java 25 Features: A Deep Dive
 
@@ -196,6 +191,3 @@ Another example is a mobile app that uses Java 25 to execute tasks in parallel a
 Java 25 brings a series of significant improvements and new features that make the language more powerful and flexible than ever. With the new module system, concurrency and parallelism improvements, and other features, Java 25 is well-equipped to meet the demands of modern software development.
 
 In the future, we can expect even more innovations and improvements in Java. As always, the Java community will continue to drive the language forward, making it even more useful for developers worldwide. Therefore, whether you are an experienced Java developer or a newcomer, now is a great time to dive into Java 25 and start exploring all the possibilities it offers.
-
-</div>
-</div>

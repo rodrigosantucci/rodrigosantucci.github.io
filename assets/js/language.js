@@ -34,7 +34,8 @@ const translations = {
     "share": "Share",
     "tags": "Tags",
     "posted_on": "Posted on",
-    "related_posts": "Related Posts"
+    "related_posts": "Related Posts",
+    "tweet": "Tweet"
   }
 };
 
