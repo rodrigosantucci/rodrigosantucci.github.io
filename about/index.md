@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sobre Mim
+title_en: About Me
 tags: [about, Sobre, Profile]
 date: 2025-12-18
 comments: true
