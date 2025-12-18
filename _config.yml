@@ -11,7 +11,7 @@ logo:               'assets/img/logo4.png'
 tiled_bg:           true  
 locale:             pt_BR
 url:                https://rodrigosantucci.github.io
-gem: [jekyll-admin]
+
 
 
 
