@@ -9,7 +9,13 @@ const translations = {
     "nav_about_btn": "Sobre",
     "nav_posts": "Posts",
     "nav_all_posts": "Todas as postagens",
-    "nav_all_tags": "Todas as tags"
+    "nav_all_tags": "Todas as tags",
+    "footer_text": "Desenvolvido com Jekyll e GitHub Pages.",
+    "read_time": "Tempo de leitura",
+    "share": "Compartilhar",
+    "tags": "Tags",
+    "posted_on": "Postado em",
+    "related_posts": "Postagens Relacionadas"
   },
   "en-US": {
     "subtitle": "Transforming Complex Challenges into Solutions",
@@ -21,7 +27,13 @@ const translations = {
     "nav_about_btn": "About",
     "nav_posts": "Posts",
     "nav_all_posts": "All Posts",
-    "nav_all_tags": "All Tags"
+    "nav_all_tags": "All Tags",
+    "footer_text": "Powered by Jekyll and GitHub Pages.",
+    "read_time": "Read time",
+    "share": "Share",
+    "tags": "Tags",
+    "posted_on": "Posted on",
+    "related_posts": "Related Posts"
   }
 };
 
@@ -29,6 +41,7 @@ function setLanguage(lang) {
   localStorage.setItem('lang', lang);
   document.documentElement.setAttribute('lang', lang);
   
+  // Update text content for elements with data-i18n
   const elements = document.querySelectorAll('[data-i18n]');
   elements.forEach(element => {
     const key = element.getAttribute('data-i18n');
@@ -37,11 +50,9 @@ function setLanguage(lang) {
     }
   });
 
-  // Update toggle button text
-  const langIcon = document.getElementById('lang-icon');
-  if (langIcon) {
-    langIcon.textContent = lang === 'pt-BR' ? 'EN' : 'PT';
-  }
+  // Toggle visibility of language-specific blocks (for blog posts and large content)
+  // This is handled by CSS (html[lang="pt-BR"] .lang-en { display: none; })
+  // But we can trigger a custom event if needed.
 }
 
 function toggleLanguage() {

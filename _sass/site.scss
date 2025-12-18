@@ -269,11 +269,11 @@ header .entry-meta {
     width: 40px;
     height: 40px;
     cursor: pointer;
-    // z-index: 1001; // Managed by container
     display: flex;
     align-items: center;
     justify-content: center;
     transition: all 0.3s ease;
+    overflow: hidden;
     
     &:hover {
         background: var(--welcome-text-color);
@@ -282,5 +282,44 @@ header .entry-meta {
     
     i {
         font-size: 1.2rem;
+    }
+}
+
+.lang-toggle {
+    background-size: cover;
+    background-position: center;
+    
+    // Default (PT-BR) state when inside English mode (shows option to switch to PT)
+    // Or Default (PT-BR) state showing current language?
+    // Usually a toggle shows what it WILL switch to, or what is CURRENT.
+    // The user asked for "bandeiras".
+    
+    #lang-icon {
+        display: none; // Hide text, use background image
+    }
+}
+
+// Visibility classes based on html[lang] attribute
+html[lang="pt-BR"] {
+    .lang-en { display: none !important; }
+    .lang-pt { display: block; } // Default behavior
+    
+    .lang-toggle {
+        background-image: url('https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg'); // Show US flag to switch to English
+        &:hover {
+             background-color: white; // Ensure flag is visible on hover
+        }
+    }
+}
+
+html[lang="en-US"] {
+    .lang-pt { display: none !important; }
+    .lang-en { display: block; }
+    
+    .lang-toggle {
+        background-image: url('https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/br.svg'); // Show BR flag to switch to Portuguese
+        &:hover {
+             background-color: white;
+        }
     }
 }
