@@ -10,6 +10,14 @@
 
 </head>
 <body class="example">
+    <div style="position: fixed; top: 20px; right: 20px; display: flex; gap: 10px; z-index: 9999; background: rgba(255, 255, 255, 0.1); padding: 5px; border-radius: 25px; backdrop-filter: blur(5px);">
+        <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle Theme" style="position: static;">
+            <i class="fa fa-moon-o"></i>
+        </button>
+        <button class="lang-toggle" onclick="toggleLanguage()" aria-label="Toggle Language">
+            <span id="lang-icon" style="font-size: 14px; font-weight: bold;">EN</span>
+        </button>
+    </div>
     
 
     {% include nav.html %}
