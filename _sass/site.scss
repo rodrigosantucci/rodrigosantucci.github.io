@@ -261,10 +261,7 @@ header .entry-meta {
 }
 
 // Theme Toggle Button
-.theme-toggle {
-    position: absolute;
-    top: 20px;
-    right: 20px;
+.theme-toggle, .lang-toggle {
     background: transparent;
     border: 2px solid var(--welcome-text-color);
     color: var(--welcome-text-color);
@@ -272,7 +269,7 @@ header .entry-meta {
     width: 40px;
     height: 40px;
     cursor: pointer;
-    z-index: 1001;
+    // z-index: 1001; // Managed by container
     display: flex;
     align-items: center;
     justify-content: center;
@@ -282,6 +279,7 @@ header .entry-meta {
         background: var(--welcome-text-color);
         color: var(--bg-color);
     }
+}
     
     i {
         font-size: 1.2rem;

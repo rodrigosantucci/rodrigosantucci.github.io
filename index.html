@@ -6,23 +6,29 @@ hide_back_btn: true
 ---
 
 <div class="welcome-section" style="text-align: center; padding: 40px 20px;">
-    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle Theme">
-        <i class="fa fa-moon-o"></i>
-    </button>
+    <div style="position: absolute; top: 20px; right: 20px; display: flex; gap: 10px; z-index: 1001;">
+        <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle Theme" style="position: static;">
+            <i class="fa fa-moon-o"></i>
+        </button>
+        <button class="lang-toggle" onclick="toggleLanguage()" aria-label="Toggle Language">
+            <span id="lang-icon" style="font-size: 14px; font-weight: bold;">EN</span>
+        </button>
+    </div>
+    
     <img src="{{ site.url }}/assets/img/logo.png" alt="Rodrigo Santucci" class="author-photo">
     
     <h2 style="font-weight: 600; margin-bottom: 15px;">Rodrigo Santucci</h2>
-    <h3 style="font-size: 1.3em; font-weight: 500; opacity: 0.95; margin-bottom: 25px;">Transformando Desafios Complexos em Soluções</h3>
+    <h3 data-i18n="subtitle" style="font-size: 1.3em; font-weight: 500; opacity: 0.95; margin-bottom: 25px;">Transformando Desafios Complexos em Soluções</h3>
     
-    <p style="font-size: 1.1em; line-height: 1.6; max-width: 700px; margin: 0 auto 30px auto;">
+    <p data-i18n="welcome_text" style="font-size: 1.1em; line-height: 1.6; max-width: 700px; margin: 0 auto 30px auto;">
         Seja bem-vindo ao meu espaço pessoal. Aqui compartilho minha jornada no meio da tecnologia, 
         explorando arquitetura de software, boas práticas e as ferramentas que impulsionam o desenvolvimento moderno.
         Fique à vontade para explorar os artigos e projetos.
     </p>
     
     <div style="margin-bottom: 40px;">
-        <a href="{{ site.url }}/about/" class="btn btn-outline-white">Sobre Mim</a>
-        <a href="{{ site.url }}/posts/" class="btn btn-outline-white" style="margin-left: 10px;">Minhas Postagens</a>
+        <a href="{{ site.url }}/about/" class="btn btn-outline-white" data-i18n="btn_about">Sobre Mim</a>
+        <a href="{{ site.url }}/posts/" class="btn btn-outline-white" style="margin-left: 10px;" data-i18n="btn_posts">Minhas Postagens</a>
     </div>
 
     <div style="border-top: 1px solid var(--welcome-border-color); width: 100px; margin: 0 auto 40px auto;"></div>
