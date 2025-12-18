@@ -3,4 +3,5 @@
 {% if page.min_read_time and readtime < page.min_read_time %}
 {% assign readtime = page.min_read_time %}
 {% endif %}
-Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
+<span class="lang-pt">~{% if readtime <= 1 %}1 minuto{% else %}{{ readtime }} minutos{% endif %}</span>
+<span class="lang-en">~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}</span>

@@ -15,7 +15,8 @@ const translations = {
     "share": "Compartilhar",
     "tags": "Tags",
     "posted_on": "Postado em",
-    "related_posts": "Postagens Relacionadas"
+    "related_posts": "Postagens Relacionadas",
+    "tweet": "Tweetar"
   },
   "en-US": {
     "subtitle": "Transforming Complex Challenges into Solutions",
