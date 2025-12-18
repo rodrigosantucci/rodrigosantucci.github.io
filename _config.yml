@@ -1,10 +1,10 @@
 # Site
 title:              Rodrigo Santucci
-bio1:               "Desenvolvimento Web"
-bio2:               "Front-end"
-bio3:               "Back-end"
-bio7:               "Próximos posts: Arquitetura REST, Docker, Spring Initializr"
-description:        "Guias, tutoriais, insight's e projetos."
+bio1:               "Engenheiro de Software Sênior"
+bio2:               "Arquiteto de Sistemas"
+bio3:               "Mentor Técnico"
+bio7:               "Foco: Java, Spring, Cloud, Arquitetura Distribuída"
+description:        "Blog pessoal sobre engenharia de software, arquitetura de sistemas e boas práticas de desenvolvimento."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo4.png'

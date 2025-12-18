@@ -20,6 +20,9 @@
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
+                <div class="page-content" style="margin-bottom: 40px;">
+                    {{ content }}
+                </div>
                 <div class="post-list">
                     {% for post in site.posts %} 
                         {% if post.project == null %}
