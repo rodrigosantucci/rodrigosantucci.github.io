@@ -1,4 +1,6 @@
 # Site navigation links
 
+- title: Blog
+  url: /posts/
 - title: Projetos
   url: /projects/

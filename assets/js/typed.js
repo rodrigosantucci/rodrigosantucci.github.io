@@ -434,9 +434,10 @@ export default class Typed {
 
 
 
+if (document.querySelector('#typed')) {
   var typed = new Typed('#typed', {
     stringsElement: '#typed-strings',
     typeSpeed: 60,
     loop: true
-
   });
+}

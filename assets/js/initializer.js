@@ -20,6 +20,10 @@ export default class Initializer {
       self.el = elementId;
     }
 
+    if (!self.el) {
+      return;
+    }
+
     self.options = { ...defaults, ...options };
 
     // attribute to type into

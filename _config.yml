@@ -7,7 +7,7 @@ bio7:               "Foco: Java, Spring, Cloud, Arquitetura Distribuída"
 description:        "Blog pessoal sobre engenharia de software, arquitetura de sistemas e boas práticas de desenvolvimento."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo4.png'
+logo:               'assets/img/logo.png'
 tiled_bg:           true  
 locale:             pt_BR
 url:                https://rodrigosantucci.github.io
