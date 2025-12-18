@@ -7,7 +7,6 @@ comments: true
 ---
 
 <div class="profile-header" style="text-align: center; margin-bottom: 40px;">
-    <img src="{{ site.url }}/assets/img/logo.png" alt="Rodrigo Santucci" style="border-radius: 50%; width: 180px; margin-bottom: 20px;">
     <h1>Rodrigo Santucci</h1>
     <p class="subtitle" style="font-size: 1.2em; color: #666;">Engenheiro de Software & Arquiteto de Soluções</p>
     <div class="social-links" style="margin-top: 20px;">
