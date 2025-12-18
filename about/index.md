@@ -26,6 +26,8 @@ Profissional apaixonado por tecnologia com foco em construção de soluções es
 ### **Engenheiro de Software Sênior**
 *Atuação em Projetos de Alta Complexidade*
 *   Desenvolvimento e arquitetura de sistemas distribuídos.
+*   Colaboração em equipes multidisciplinares.
+*   Gerenciamento de projetos com foco em entregas pontuais e de alta qualidade.
 *   Liderança técnica e mentoria de desenvolvedores júnior/pleno.
 *   Implementação de práticas de DevOps e CI/CD.
 
@@ -53,12 +55,19 @@ Profissional apaixonado por tecnologia com foco em construção de soluções es
 ### **Linguagens de Programação**
 *   **Java**: Spring Boot, Quarkus, Jakarta EE, Hibernate.
 *   **JavaScript/TypeScript**: Node.js, React, Angular, Vue.
+*   **C#**: .NET Core, ASP.NET, Entity Framework.
+*   **PHP**: Laravel.
 *   **Python**: Automação, Scripting, Data Analysis.
 
 ### **Infraestrutura & Cloud**
 *   **AWS & Azure**: EC2, Lambda, S3, Azure Functions.
 *   **Containerização**: Docker, Kubernetes.
-*   **IaC**: Terraform, Ansible.
+*   **Jenkins**: Pipeline as Code.
+*   **Git**: Controle de Versão.
+*   **Oracle Cloud**: Infrastructure, Compute, Storage.
+*   **Servidores**: Linux (Ubuntu, CentOS), Windows Server.
+*   **Servidores de Aplicação**: Apache, Nginx.
+
 
 ### **Metodologias & Práticas**
 *   Agile (Scrum/Kanban)
@@ -66,11 +75,12 @@ Profissional apaixonado por tecnologia com foco em construção de soluções es
 *   Test Driven Development (TDD)
 *   System Design
 
+
 ---
 
 
 <div style="text-align: center; margin-top: 50px;">
-    <h3>Vamos construir algo incrível juntos?</h3>
+    <h3>Vamos trabalhar juntos?</h3>
     <p>Estou sempre aberto a novas oportunidades e colaborações.</p>
     <a href="mailto:contato@rodrigo_santucci@hotmail.com" class="btn btn-primary">Entre em Contato</a>
 </div>
