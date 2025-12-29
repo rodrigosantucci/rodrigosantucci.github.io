@@ -31,6 +31,6 @@ jobs:
           JEKYLL_ENV: production
         run: bundle exec jekyll build --trace
       - name: Lychee Link Checker
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2.0.2
         with:
           args: --config .lychee.toml --input _site --base https://rodrigosantucci.github.io --timeout 20s --max-concurrency 10 --retry 2
