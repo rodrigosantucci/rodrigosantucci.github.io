@@ -7,12 +7,9 @@ categories: [Desenvolvimento, Ferramentas, Versionamento]
 tags: [GIT, Controle de Versão, Código, Desenvolvimento]
 description: "Nesta postagem, mergulhamos profundamente na compreensão do GIT, explorando seu funcionamento, uso prático, padrões avançados, estudos de caso e tendências futuras."
 description_en: "In this post, we dive deep into understanding GIT, exploring its inner workings, practical usage, advanced patterns, case studies, and future trends."
-feature: https://image.pollinations.ai/prompt/git%20logo?width=1280&height=720&nologo=true
 ---
 
 # GIT: O guia abrangente para entender e usar corretamente
-
-![Git Logo](https://image.pollinations.ai/prompt/git%20logo?width=1024&height=576&nologo=true)
 
 ## Introdução
 
@@ -195,8 +192,6 @@ Portanto, se você é um desenvolvedor de software e ainda não está familiariz
 <!-- split -->
 
 # GIT: The Comprehensive Guide to Understanding and Using It Correctly
-
-![Git Logo](https://image.pollinations.ai/prompt/git%20logo?width=1024&height=576&nologo=true)
 
 ## Introduction
 

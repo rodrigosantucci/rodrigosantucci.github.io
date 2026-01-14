@@ -7,12 +7,9 @@ categories: [Java, Programação, Atualizações]
 tags: [Java 25, Desenvolvimento de Software, Arquitetura de Software]
 description: "Descubra as mais recentes inovações e melhorias introduzidas no Java 25, desde os seus conceitos fundamentais até implementações práticas, padrões avançados e estudos de caso."
 description_en: "Discover the latest innovations and improvements introduced in Java 25, from its fundamental concepts to practical implementations, advanced patterns, and case studies."
-feature: https://image.pollinations.ai/prompt/Java%2025%20features?width=1280&height=720&nologo=true
 ---
 
 # Explorando as Novidades do Java 25: Uma Análise Profunda
-
-![Java 25 Logo](https://image.pollinations.ai/prompt/Java%2025%20logo?width=1024&height=576&nologo=true)
 
 ## Introdução Detalhada
 
@@ -26,15 +23,11 @@ Neste post, faremos uma análise aprofundada das novidades do Java 25, explorand
 
 Uma das características mais importantes do Java 25 é o novo sistema de módulos. O sistema de módulos é uma maneira eficaz de organizar e gerenciar o código em grandes aplicações Java.
 
-![Sistema de Módulos](https://image.pollinations.ai/prompt/Java%2025%20module%20system?width=1024&height=576&nologo=true)
-
 Um módulo é um grupo de pacotes relacionados que são compilados juntos como uma única unidade. Cada módulo tem um nome único e pode depender de outros módulos. Este sistema de módulos permite um maior controle sobre o encapsulamento e a visibilidade do código, tornando mais fácil para os desenvolvedores manter e atualizar grandes bases de código.
 
 ### Melhorias em Concorrência e Paralelismo
 
 Java 25 também introduz várias melhorias significativas na forma como a linguagem lida com concorrência e paralelismo. Estas melhorias tornam mais fácil para os desenvolvedores escrever código que pode tirar proveito de múltiplos núcleos de CPU, melhorando assim a eficiência e o desempenho de suas aplicações.
-
-![Concorrência e Paralelismo](https://image.pollinations.ai/prompt/Concurrency%20and%20parallelism?width=1024&height=576&nologo=true)
 
 ## Implementação Prática
 
@@ -78,8 +71,6 @@ Neste exemplo, estamos criando um `ExecutorService` com uma pool de threads fixa
 
 Uma das principais vantagens do novo sistema de módulos no Java 25 é que ele permite uma arquitetura modular. Em uma arquitetura modular, cada módulo é responsável por uma funcionalidade específica e pode ser desenvolvido, testado e implantado de forma independente.
 
-![Arquitetura Modular](https://image.pollinations.ai/prompt/Modular%20architecture?width=1024&height=576&nologo=true)
-
 ### Otimização de Desempenho
 
 Graças às melhorias em concorrência e paralelismo, o Java 25 permite uma otimização de desempenho significativa. Ao escrever código que tira proveito de múltiplos núcleos de CPU, você pode melhorar a eficiência e a velocidade de suas aplicações.
@@ -104,8 +95,6 @@ No futuro, podemos esperar ainda mais inovações e melhorias no Java. Como semp
 
 # Exploring Java 25 Features: A Deep Dive
 
-![Java 25 Logo](https://image.pollinations.ai/prompt/Java%2025%20logo?width=1024&height=576&nologo=true)
-
 ## Detailed Introduction
 
 Java, the object-oriented programming language that revolutionized the software development world, is back with version 25. Since its release in 1995 by Sun Microsystems, Java has been the backbone of many enterprise systems, web applications, mobile apps, and much more. The advent of Java 25 marks a significant milestone in the continuous evolution of this widely used programming language.
@@ -118,15 +107,11 @@ In this post, we will take a deep dive into the new features of Java 25, explori
 
 One of the most important features of Java 25 is the new module system. The module system is an effective way to organize and manage code in large Java applications.
 
-![Module System](https://image.pollinations.ai/prompt/Java%2025%20module%20system?width=1024&height=576&nologo=true)
-
 A module is a group of related packages that are compiled together as a single unit. Each module has a unique name and can depend on other modules. This module system allows for greater control over encapsulation and code visibility, making it easier for developers to maintain and update large codebases.
 
 ### Concurrency and Parallelism Improvements
 
 Java 25 also introduces several significant improvements in how the language handles concurrency and parallelism. These improvements make it easier for developers to write code that can take advantage of multiple CPU cores, thereby improving the efficiency and performance of their applications.
-
-![Concurrency and Parallelism](https://image.pollinations.ai/prompt/Concurrency%20and%20parallelism?width=1024&height=576&nologo=true)
 
 ## Practical Implementation
 
@@ -169,8 +154,6 @@ In this example, we are creating an `ExecutorService` with a fixed thread pool o
 ### Modular Architecture
 
 One of the main advantages of the new module system in Java 25 is that it enables a modular architecture. In a modular architecture, each module is responsible for a specific functionality and can be developed, tested, and deployed independently.
-
-![Modular Architecture](https://image.pollinations.ai/prompt/Modular%20architecture?width=1024&height=576&nologo=true)
 
 ### Performance Optimization
 

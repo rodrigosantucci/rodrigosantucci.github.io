@@ -5,14 +5,12 @@ title: "Estruturas de Dados - Descubra os Primeiros Passos Para Dominar Este Con
 categories: [Ciência da Computação, Programação, Estruturas de Dados]
 tags: [Estruturas de Dados, Algoritmos, Programação, Ciência da Computação]
 description: "Explore uma visão detalhada sobre estruturas de dados, desde os conceitos básicos até aplicações avançadas. Aprenda com exemplos práticos e estudos de caso reais."
-feature: https://image.pollinations.ai/prompt/Data%20Structures?width=1280&height=720&nologo=true
 ---
 
 # Estruturas de Dados - Primeiros Passos
 
 A ciência da computação é um universo vasto e complexo. Um dos pilares fundamentais é o estudo das estruturas de dados. Este artigo proporcionará uma visão abrangente sobre estruturas de dados, desde conceitos básicos até aplicações avançadas.
 
-![Estruturas de Dados](https://image.pollinations.ai/prompt/Data%20Structures%20Concept?width=1024&height=576&nologo=true)
 
 ## Introdução Detalhada
 

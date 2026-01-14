@@ -5,12 +5,10 @@ title: "Dominando LLMs na Programação: Impactos e Implicações na Engenharia 
 categories: [Programação, Engenharia de Software]
 tags: [LLMs, Engenharia de Software, Programação]
 description: "Um mergulho profundo nos LLMs na programação e como eles estão moldando a engenharia de software moderna."
-feature: https://image.pollinations.ai/prompt/Software%20Engineering?width=1280&height=720&nologo=true
 ---
 
 # Introdução
 
-![Alt Text](https://image.pollinations.ai/prompt/Software%20Engineering%20history?width=1024&height=576&nologo=true)
 
 O uso de Máquinas de Aprendizado de Linguagem (LLMs, do inglês Language Learning Machines) na programação tem sido um tópico de grande interesse na engenharia de software. Mas o que são LLMs e como elas impactam a engenharia de software? Nesta postagem, faremos um mergulho profundo nestas questões.
 
@@ -22,7 +20,6 @@ LLMs têm suas raízes na inteligência artificial (IA), especificamente na apre
 
 ## Aprendizado de Máquina
 
-![Alt Text](https://image.pollinations.ai/prompt/Machine%20Learning%20Concepts?width=1024&height=576&nologo=true)
 
 Antes de explorarmos LLMs, é importante compreender os princípios básicos do aprendizado de máquina. O aprendizado de máquina é um subcampo da IA que se concentra em desenvolver algoritmos e modelos que permitem que as máquinas melhorem seu desempenho em uma tarefa específica com a experiência.
 
@@ -124,7 +121,6 @@ O GPT-3 da OpenAI é um dos LLMs mais avançados disponíveis atualmente. Ele te
 
 # Conclusão
 
-![Alt Text](https://image.pollinations.ai/prompt/Future%20of%20Software%20Engineering?width=1024&height=576&nologo=true)
 
 A ascensão das LLMs na programação tem implicações significativas para a engenharia de software. À medida que esses modelos se tornam mais avançados, eles abrem novas possibilidades para a forma como desenvolvemos software e interagimos com as máquinas.
 
