@@ -1,7 +1,7 @@
 ---
 date:   2026-09-13 23:20:19 -0300
 layout: post
-title: "Introdução a Modelos LLM em 2026: Uma Análise Exaustiva"
+title: "Introdução a Modelos LLM em 2026"
 categories: [Inteligência Artificial, Modelos de Linguagem, Benchmark]
 tags: [LLM, Modelos de Linguagem, Benchmark, Análise de Desempenho]
 description: "Neste artigo, vamos realizar uma análise exaustiva dos principais modelos LLM em 2026, abordando histórico, conceitos teóricos, implementação prática, padrões avançados e estudos de caso reais."
