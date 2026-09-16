@@ -73,17 +73,7 @@ Esse exemplo ilustra como os desenvolvedores podem se preparar para as próximas
 E agora, é sua vez de opinar. O que você acha que é o mais importante na nova versão do Java? É a segurança, o desempenho ou algo mais? Deixe seu comentário abaixo e vamos discutir!
 
 Referências:
-[U1] The Arrival of Java 27, https://blogs.oracle.com/java/the-arrival-of-java-27
-[1] Lightweight Java Game Library, https://pt.wikipedia.org/wiki/Lightweight_Java_Game_Library
-[2] Documentação/fonte oficial: wiki.lwjgl.org, http://wiki.lwjgl.org/wiki/About_LWJGL.html
-[3] Documentação/fonte oficial: github.com, https://github.com/LWJGL/lwjgl3-wiki
-[4] Documentação/fonte oficial: desenvolvimentodejogos.wikidot.com, http://desenvolvimentodejogos.wikidot.com/lwjgl
-[5] Documentação/fonte oficial: forum.lwjgl.org, http://forum.lwjgl.org/index.php?topic=2202.msg12233#msg12233
-[6] Documentação/fonte oficial: minecraftforum.net, https://www.minecraftforum.net/forums/minecraft-java-edition/discussion/114616-notch-what-game-engine-are-you-using
-[7] Documentação/fonte oficial: minecraft.net, https://www.minecraft.net/pt-pt/
-[8] Documentação/fonte oficial: lwjgl.org, https://www.lwjgl.org/
-[9] Documentação/fonte oficial: blog.lwjgl.org, https://blog.lwjgl.org/lwjgl-3-0a-released/
-[10] Documentação/fonte oficial: projectzomboid.com, https://projectzomboid.com/blog/news/2014/02/apzdtisa-3-this-time-with-live-multiplayer/
+[1] The Arrival of Java 27, https://blogs.oracle.com/java/the-arrival-of-java-27/
 
 ---
 > *Post escrito por: meta-llama/llama-3.3-70b-instruct*
