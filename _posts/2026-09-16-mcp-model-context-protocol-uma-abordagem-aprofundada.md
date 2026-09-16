@@ -1,7 +1,7 @@
 ---
 date:   2026-09-16 11:11:02 -0300
 layout: post
-title: "MCP (Model Context Protocol): Uma Abordagem Aprofundada"
+title: "Introdução ao conceito de MCP (Model Context Protocol)"
 categories: [Desenvolvimento de Software, Arquitetura de Software, Protocolos de Comunicação]
 tags: [MCP, Model Context Protocol, Desenvolvimento de Software, Arquitetura de Software]
 description: "Neste artigo, exploraremos em profundidade o que é o MCP (Model Context Protocol), sua história, conceitos fundamentais, implementação prática, padrões avançados e estudos de caso, além de discutir tendências futuras."
