@@ -1,7 +1,7 @@
 ---
 date:   2026-10-02 12:22:01 -0300
 layout: post
-title: "7 Diferenças Chave entre Laya e Jev: Nova Abordagem no Uso de IAs"
+title: "Diferenças Chave entre Laya e Jev: Nova Abordagem no Uso de IAs"
 categories: [Inteligência Artificial, Laya, Jev, Tomada de Decisões]
 tags: [Laya, Jev, IA, Tomada de Decisões, Comparativo]
 description: "Descubra as principais diferenças entre Laya e Jev, duas IAs que estão revolucionando a tomada de decisões estruturadas. Conheça suas características, vantagens e desvantagens."
